@@ -1,0 +1,338 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #1c8f91;
+}
+
+#nav-21,
+#nav-21 a,
+#nav-21 ion-icon {
+    color: black;
+    font-size: 1.05em;
+    opacity: 90%;
+}
+
+#nav-list-21 a {
+    color: black;
+}
+
+#primary-bg {
+    height: 80vh;
+    width: 100%;
+    background: url("/images/placeholder-ballet.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.color-filter-pink {
+    position: absolute;
+    background: #d94da6;
+    opacity: 60%;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.color-filter-green {
+    position: absolute;
+    background: #10c45c;
+    opacity: 60%;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.color-filter-blue {
+    position: absolute;
+    background: rgba(48, 122, 213, 1);
+    opacity: 60%;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+#primary-txt {
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width: 40%;
+    /*transform: translate(-50%, -50%);*/
+    font-size: 3.75em;
+    text-align: center;
+    color: white;
+    text-transform: lowercase;
+}
+
+#primary-txt-mobile {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+    text-align: center;
+    color: white;
+    text-transform: lowercase;
+}
+
+.secondary-txt {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+}
+
+.btn-family {
+    color: white;
+    border-radius: 30px;
+    transition: background 0.4s ease;
+    padding: 10px 20px;
+}
+
+.txt-green { color: #10c45c; }
+.txt-blue { color: #307ad5; }
+.txt-pink { color: #d94da6; }
+
+.txt-kapa-teal { color: #1c8f91 }
+.txt-kapa-orange { color: #eb971d; }
+.txt-kapa-pink { color: #d13c98; }
+.txt-kapa-green { color: #969a3c; }
+
+.btn-turq { background: rgba(30, 193, 217, 1); }
+.btn-yellow, .bg-yellow { background: rgba(234, 184, 48, 1); }
+.btn-blue { background: rgba(48, 122, 213, 1); }
+.btn-green { background: rgba(16, 196, 92, 1); }
+.btn-pink { background: rgba(217, 77, 166, 1); }
+
+.bg-turqoise {
+    background: rgba(30, 193, 217, 1);
+    color: white;
+}
+
+.bg-kapa-orange { background: rgba(235, 151, 29, 1); }
+
+.btn-kapa-teal { background: rgba(28, 143, 145, 1); color: white;}
+.btn-kapa-orange { background: rgba(235, 151, 29, 1); color: white;}
+.btn-kapa-pink { background: rgba(209, 60, 152, 1); color: white;}
+.btn-kapa-green { background: rgba(150, 154, 60, 1); color: white;}
+
+.underline-teal { border: 2px solid RGBA(28, 143, 145, 1); transition: 0.8s background ease; }
+.underline-orange { border: 2px solid RGBA(235, 151, 29, 1); transition: 0.8s background ease; }
+.underline-pink { border: 2px solid RGBA(209, 60, 152, 1); transition: 0.8s background ease; }
+.underline-green { border: 2px solid RGBA(150, 154, 60, 1); transition: 0.8s background ease; }
+
+.underline-teal:hover { background: RGBA(28, 143, 145, 1); }
+.underline-orange:hover { background: RGBA(235, 151, 29, 1); }
+.underline-pink:hover { background: RGBA(209, 60, 152, 1); }
+.underline-green:hover { background: RGBA(150, 154, 60, 1); }
+
+.btn-kapa-teal:hover { background: RGBA(20, 147, 143, 0.7); color: white; }
+.btn-kapa-orange:hover { background: RGBA(230, 151, 36, 0.7); color: white; }
+.btn-kapa-pink:hover { background: RGBA(203, 63, 151, 0.7); color: white; }
+.btn-kapa-green:hover { background: RGBA(148, 155, 56, 0.7); color: white; }
+
+.btn-turq:hover { background: rgba(30, 193, 217, 0.7); color: white; }
+.btn-yellow:hover { background: rgba(234, 184, 48, 0.7); color: white; }
+.btn-blue:hover { background: rgba(48, 122, 213, 0.7); color: white; }
+.btn-green:hover { background: rgba(16, 196, 92, 0.7); color: white; }
+.btn-pink:hover { background: rgba(217, 77, 166, 0.7); color: white; }
+
+.primary-btn-pos {
+    position: absolute;
+    bottom: 35%;
+    left: 19%;
+    /*transform: translate(-50%, -50%);*/
+}
+
+#button-tablet {
+    position: absolute;
+    bottom: 35%;
+    left: 18%;
+}
+
+#button-mobile {
+    position: absolute;
+    bottom: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.secondary-txt-pos {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    font-size: 1.25em;
+}
+
+.tertiary-txt-pos {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /*width: 100%;*/
+    font-size: 1.25em;
+}
+
+#vision {
+    transform: translateY(-70px);
+}
+
+#next-steps {
+    transform: translateY(-150px);
+}
+
+.next-step {
+    background: white;
+    color: black;
+    width: 300px;
+    height: 200px;
+    padding: 40px 20px;
+    text-align: center;
+    margin: 0 20px;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+#checklist-bg p,
+#checklist-bg h2,
+#checklist-bg ion-icon
+{
+    text-shadow: 1px 1px 4px black;
+}
+
+#checklist-bg {
+    height: 60vh;
+    width: 100%;
+    background: url("/images/placeholder-contemporary.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+#mtjgd-bg {
+    height: 100vh;
+    width: 100%;
+    background: url("/images/la-crosse-dance-studios.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+#testimonials .col-md {
+    background: white;
+    border-radius: 15px;
+}
+
+#footer ion-icon {
+    font-size: 1.5em;
+}
+
+.banner-wrap {
+    height: 200px;
+}
+
+.banner {
+    height: 100%;
+    background-image: url(/images/banner.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*---------------------------------------*/
+/* BIO ACCORDION */
+/*---------------------------------------*/
+/* Style the buttons that are used to open and close the accordion panel */
+.bioaccordion {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    outline: none;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    background: white;
+}
+
+.bioaccordion:hover {
+    background: #ebe82e;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.biopanel {
+    max-height: 0;
+    overflow: hidden;
+    -webkit-transition: max-height 0.2s ease-out;
+    transition: max-height 0.2s ease-out;
+    z-index: 1;
+    width: 100%;
+    background: white;
+}
+
+.biopanel-open {
+    width: 100%;
+    background: white;
+}
+
+.box-one { background: #eab830; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+.box-two { background: #307ad5; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+.box-three { background: #1ec1d9; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+.box-four { background: #10c45c; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+.box-five { background: #d94da6; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+
+#fall-select a {
+    text-decoration: none;
+}
+
+.font-pacifico {
+    font-family: 'Pacifico', cursive;
+}
+
+.accordion-button {
+    background: #B8EDEB !important;
+}
+
+.accordion-button::after {
+    background-image: none !important;
+}
+
+#enroll-form label {
+    text-align: right;
+}
+
+@media only screen and (max-width: 600px) {
+    #enroll-form label {
+        text-align: left;
+    }
+}
+
+/*
+teal
+#1c8f91
+RGBA(28, 143, 145, 1)
+
+
+orange
+#eb971d
+RGBA(235, 151, 29, 1)
+
+pink
+#d13c98
+RGBA(209, 60, 152, 1)
+
+green
+#969a3c
+RGBA(150, 154, 60, 1)
+
+ */
