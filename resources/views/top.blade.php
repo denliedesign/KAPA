@@ -12,5 +12,9 @@
             <ion-icon name="phone-portrait-outline"></ion-icon>
             262.383.4812
         </li>
+        <li class="nav-item text-white-50 mx-4">
+            <ion-icon name="mail"></ion-icon>
+            info@kenoshadancemusicdrama.com
+        </li>
     </ul>
 </div>

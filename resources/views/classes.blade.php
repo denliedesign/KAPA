@@ -58,7 +58,7 @@
                         </p>
                     </div>
                     <div class="col-sm my-1">
-                        <p class="fw-bold text-uppercase mb-0">Dancing School Kids</p>
+                        <p class="fw-bold text-uppercase mb-0">Dancing Kids</p>
                         <p class="mb-0">
                             Children learn basic tap dance and ballet movements, locomotor skills, and creative movement through the use of fun, catchy songs that help them to remember dance terminology.
                         </p>
@@ -107,7 +107,7 @@
                         </p>
                     </div>
                     <div class="col-sm my-1">
-                        <p class="fw-bold text-uppercase mb-0">Kinder/Kids Acrobatic Dance</p>
+                        <p class="fw-bold text-uppercase mb-0">Kinder/1st Grade Acrobatic Dance</p>
                         <p class="mb-0">
                             Acrobatic Dance, or acro as it is commonly referred to by dancers and dance professionals, is the beautiful fusion of classic dance technique and the precision and athleticism of acrobatic elements. Often defined by unique choreography, acro dancers seamlessly blend musicality, emotional expression, line and extension with acrobatic movements in a dance context.
                         </p>
@@ -162,9 +162,9 @@
                         </p>
                     </div>
                     <div class="col-sm my-1">
-                        <p class="fw-bold text-uppercase mb-0">Pom Pons</p>
+                        <p class="fw-bold text-uppercase mb-0">Dance Team</p>
                         <p class="mb-0">
-                            Poms are a form of drill team technique that combines high energy based moves with a jazz or hip hop style. Technique includes jumps, turns, leaps and team building.
+                            Dance Team combines high energy based moves with a jazz or hip hop style. Technique includes jumps, turns, leaps and team building.
                         </p>
                     </div>
                     <div class="col-sm my-1">

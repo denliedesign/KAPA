@@ -21,7 +21,7 @@
                                 <div class="bg-white rounded p-4 shadow">
                                     <strong><ion-icon name="call"></ion-icon> Call:</strong> 262.605.3951
                                     <br><strong><ion-icon name="phone-portrait-outline"></ion-icon> Text:</strong> 262.383.4812
-                                    <br><strong><ion-icon name="mail"></ion-icon> Email:</strong> ahackett@kenoshadancemusicdrama.com
+                                    <br><strong><ion-icon name="mail"></ion-icon> Email:</strong> info@kenoshadancemusicdrama.com
                                     <br><strong><ion-icon name="navigate"></ion-icon> Visit:</strong> 7600 75th Street Suite 121, Kenosha, WI 53142
                                     <br><br>Or fill out the form to start enrolling. We’ll call you back within 1 business day to help you finish signing up.
                                 </div>

@@ -86,21 +86,29 @@
             <h2 class="text-center pt-5">Music Lessons</h2>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm mt-4">
-                    <img src="/images/piano.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/piano.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-teal btn-family mt-2" style="width: 100%;">Piano</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/guitar.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Guitar</div></a>
+                    <img src="/images/voice.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Voice</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/drums.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Drums</div></a>
+                    <img src="/images/guitar.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Guitar</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/bass.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Bass Guitar</div></a>
+                    <img src="/images/violin.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
+                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Violin</div></a>
                 </div>
+{{--                <div class="col-sm mt-4">--}}
+{{--                    <img src="/images/drums.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: -20% 0; width: 100%;">--}}
+{{--                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Drums</div></a>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm mt-4">--}}
+{{--                    <img src="/images/bass.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: -20% 0; width: 100%;">--}}
+{{--                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Bass Guitar</div></a>--}}
+{{--                </div>--}}
             </div>
         </div>
     </div>
@@ -111,9 +119,9 @@
         <div class="row secondary-txt-pos text-white text-center">
             <div class="col-sm">
                 <p>
-                    <ion-icon name="heart"></ion-icon> Sprung Floors
+                    <ion-icon name="heart"></ion-icon> Safer Studio
+                    <br><ion-icon name="heart"></ion-icon> Tech Enabled
                     <br><ion-icon name="heart"></ion-icon> Secured Facility
-                    <br><ion-icon name="heart"></ion-icon> Study Areas
                 </p>
             </div>
             <div class="col-sm">
@@ -139,21 +147,20 @@
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="d-flex justify-content-center mb-0">
-                            <img src="/images/darbys-dancers-logo.jpeg" alt="darbys dancers logo" class="img-fluid">
+                            <img src="/images/ballet-kenosha.png" alt="ballet kenosha logo" class="img-fluid">
                         </div>
-                        <h2 class="text-center mt-0 mb-3">Featured Program</h2>
                         <p class="mb-5">
-                            Misty’s Dance Unlimited (MDU) is proud to offer through a chapter of the national non-profit organization <strong>Darby’s Dancers</strong>! Darby's Dancers is an opportunity for children with special needs to participate in the performing arts through dance education.
+                            Ballet Kenosha is our pre-professional ballet group. It has become an exciting addition to the local arts scene and provides a tremendous opportunity for young dancers, children and audience members alike to experience the magic of ballet.
                             <br><br>
-                            Dancers in the program gain confidence, coordination, strength and lifelong friends, all while feeling like a star.  Our youth volunteers learn important lessons in responsibility and friendship by providing one-on-one assistance their dancer.
-                            <br><br>
-                            The charitable contributions of youth volunteers, dance instructors, and MDU provide dance classes, supplies and costumes to dancers with special needs at no cost to their parents.
+                            Ballet Kenosha serves two purposes:
+                            <br>• To increase exposure to and appreciation for classical performance arts in the community
+                            <br>• To provide opportunities for area youth to gain training that mirrors that of the professional world. Each December, we stage a production of The Nutcracker. In the spring, we will produce a production of A Little Princess. Both productions will fulfill our mission to share beautiful classical performances with an eager audience. Students 5yrs old and up may audition for Ballet Kenosha.
                         </p>
                     </div>
                 </div>
                 <div class="col-sm d-flex align-items-center justify-content-center">
                     <div class="">
-                        <img src="/images/darbys-1.jpg" alt="darbys dancer on stage" class="img-fluid rounded shadow">
+                        <img src="/images/ballet-shoes.jpg" alt="pointe shoes for ballet" class="img-fluid rounded shadow">
                     </div>
                 </div>
             </div>

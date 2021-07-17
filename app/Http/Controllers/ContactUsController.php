@@ -29,7 +29,7 @@ class ContactUsController extends Controller
             'birthdate' => 'required'
         ]);
 
-        Mail::to('customdenlie@gmail.com')->send(new ContactUsMail($data));
+        Mail::to('info@kenoshadancemusicdrama.com')->send(new ContactUsMail($data));
 
         return redirect('/enroll')->with('message', 'Thanks for your message. We\'ll be in touch.');
 

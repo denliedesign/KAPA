@@ -35,6 +35,10 @@
                             <ion-icon name="phone-portrait-outline"></ion-icon>
                             262.383.4812
                         </li>
+                        <li class="list-group-item px-0 border-0">
+                            <ion-icon name="mail"></ion-icon>
+                            info@kenoshadancemusicdrama.com
+                        </li>
                     </ul>
                 </div>
                 <div class="col-sm-2 mt-3">
@@ -95,7 +99,7 @@
                                     <a class="text-decoration-none txt-blue" href="https://docs.google.com/forms/d/e/1FAIpQLSciIxB5T0A4wyXQS3WsMqPpXM-98rxVdTjgFjCYT0e2n6O0MA/viewform" target="_blank">Absence Form</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="http://www.curtaincallforclass.com/my-studio/49498" target="_blank">Dance Boutique</a>
+                                    <a class="text-decoration-none txt-blue" href="https://www.discountdance.com/search/teacherid:50372?tp=50372" target="_blank">Dance Boutique</a>
                                 </li>
                                 @guest
                                     <li class="list-group-item px-0 border-0">
