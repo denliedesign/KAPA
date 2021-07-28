@@ -118,17 +118,12 @@
         <h2 class="secondary-txt d-none d-md-block">Parents <ion-icon name="heart"></ion-icon> KAPA...</h2>
         <div class="row secondary-txt-pos text-white text-center">
             <div class="col-sm">
-                <p>
+                <p class="text-capitalize">
                     <ion-icon name="heart"></ion-icon> Safer Studio
                     <br><ion-icon name="heart"></ion-icon> Tech Enabled
                     <br><ion-icon name="heart"></ion-icon> Secured Facility
-                </p>
-            </div>
-            <div class="col-sm">
-                <p>
-                    <ion-icon name="heart"></ion-icon> Written Curriculum
-                    <br><ion-icon name="heart"></ion-icon> Background Checked
-                    <br><ion-icon name="heart"></ion-icon> CPR Trained
+                    <br><ion-icon name="heart"></ion-icon> Written Curriculum
+                    <br><ion-icon name="heart"></ion-icon> live stream app for parents to observe class
                 </p>
             </div>
             <div class="col-sm">
@@ -136,8 +131,15 @@
                     <ion-icon name="heart"></ion-icon> Full-Time Admin
                     <br><ion-icon name="heart"></ion-icon> YPAD Certified
                     <br><ion-icon name="heart"></ion-icon> Community Service
+                    <br><ion-icon name="heart"></ion-icon> Background Checked
+                    <br><ion-icon name="heart"></ion-icon> CPR Trained
                 </p>
             </div>
+{{--            <div class="col-sm">--}}
+{{--                <p>--}}
+{{--                    --}}
+{{--                </p>--}}
+{{--            </div>--}}
         </div>
     </div>
 

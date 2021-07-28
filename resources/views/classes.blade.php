@@ -83,9 +83,9 @@
                         </p>
                     </div>
                     <div class="col-sm my-1">
-                        <p class="fw-bold text-uppercase mb-0">Pom Pon Kids</p>
+                        <p class="fw-bold text-uppercase mb-0">Dance Team Kids</p>
                         <p class="mb-0">
-                            Poms are a form of drill team technique that combines high energy based moves with a jazz or hip hop style. Technique includes jumps, turns, leaps and team building.
+                            Dance Team Kids combines high energy based moves with a jazz or hip hop style. Technique includes jumps, turns, leaps and team building.
                         </p>
                     </div>
                     <div class="col-sm my-1">
