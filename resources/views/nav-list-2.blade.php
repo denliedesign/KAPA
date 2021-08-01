@@ -9,7 +9,7 @@
         <a class="nav-link" href="/#class-categories">Classes</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/summer">Summer</a>
+        <a class="nav-link" href="/fall">Fall</a>
     </li>
     <li class="nav-item mx-2">
         <a class="nav-link" href="/articles">News</a>

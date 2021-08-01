@@ -26,8 +26,8 @@ Route::get('/classes', function () {
     return view('/classes');
 });
 
-Route::get('/summer', function () {
-    return view('/summer');
+Route::get('/fall', function () {
+    return view('/fall');
 });
 
 Route::get('/enroll', function () {
