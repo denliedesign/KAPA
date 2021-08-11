@@ -34,6 +34,10 @@ Route::get('/enroll', function () {
     return view('/enroll');
 });
 
+Route::get('/music-lessons-kenosha', function () {
+    return view('/music-lessons-kenosha');
+});
+
 Route::get('contact', 'App\Http\Controllers\ContactUsController@create')->name('contact.create');
 Route::post('contact', 'App\Http\Controllers\ContactUsController@store')->name('contact.store');
 

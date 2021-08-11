@@ -58,29 +58,7 @@
                     </div>
 
                     <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-todd.png">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionTodd">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingTodd">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTodd" aria-expanded="true" aria-controls="collapseTodd">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark">Todd Richards <span class="fw-normal" style="font-size: 0.65em;">Music Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseTodd" class="accordion-collapse collapse show" aria-labelledby="headingTodd" data-bs-parent="#accordionTodd">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Todd Richards is a multi-instrumentalist (guitar, bass, keyboards) and musical artist who has been performing and educating in the Midwest for over 20 years. In addition to teaching private and ensemble lessons for both kids and adults in guitar, bass and piano, Todd has taught music and core subjects in the Milwaukee Public Schools and local Montessori schools as well as being the general manager of the School of Rock Shorewood. Todd has performed in a wide array of groups, including Brazzaville, The Tropics, Recycled Future, Dr. Science, the Afro Drum Ensemble, and his eponymous band. He has recorded and toured extensively as a musician throughout the United States and Europe, and has shared the stage with acts such as Dengue Fever, The Roots and The Greyhounds. Todd has performed at music festivals locally and throughout the country, and has appeared with Brazzaville on NPR’s World Cafe with David Dye. Todd produces and engineers for musicians, tv/film and theater, most recently for David Arthur Brown (Brazzaville, Beck), Chris Vos (The Record Company), and Lisa Gatewood. A Milwaukee native, Todd studied at the Wisconsin Conservatory of Music and holds a BFA from the University of Wisconsin-Milwaukee.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        @include('todd')
                     </div>
 
                     <div class="row mt-4">
@@ -266,29 +244,7 @@
                     </div>
 
                     <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-kristin.png">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionKristin">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingKristin">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKristin" aria-expanded="true" aria-controls="collapseKristin">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">Kristin Stuckmyer <span class="fw-normal" style="font-size: 0.65em;">Music Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseKristin" class="accordion-collapse collapse show" aria-labelledby="headingKristin" data-bs-parent="#accordionKristin">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Kristin Stuckmyer, MT-BC, has played piano since the age of 10 and began teaching music in 1990. She is a board certified music therapist with a B.A. in music therapy earned at Western Illinois University upon the completion of her internship at the Center for Neurodevelopmental Studies in Glendale, Arizona. Kristin is professionally trained in sensory integration techniques under the supervision of Lorena Jean King, OTR, and Sheryl Kelly, MT-BC. She has lived in Kenosha since 2004 with her husband and two daughters.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        @include('kristin')
                     </div>
 
                     <div class="row mt-4">
@@ -474,55 +430,11 @@
                     </div>
 
                     <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-pamela.png">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionPamela">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingPamela">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePamela" aria-expanded="true" aria-controls="collapsePamela">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">Pamela Herbert <span class="fw-normal" style="font-size: 0.65em;">Music Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapsePamela" class="accordion-collapse collapse show" aria-labelledby="headingPamela" data-bs-parent="#accordionPamela">
-                                        <div class="accordion-body">
-                                            <p>
-                                                My name is Pamela Herbert and I am honored and excited to introduce myself to you as a new private voice and piano instructor at Kenosha Academy of Performing Arts! Music has been a part of my life since I was a very young child, as I began singing with my family at the age of 5. I earned my degree in music, specifically Voice and Vocal Pedagogy from North Park College in Chicago, where I had many wonderful opportunities to perform. Some of my performance experience includes several seasons with Light Opera Works of Evanston, roles in several operas such as Mimi in Puccini’s La Bohéme and Bess in Gershwin’s Porgy and Bess and many others! I also had the opportunity to perform in Master classes as well as coach with Dr. Elizabeth Buccheri, the senior accompanist at both the Chicago Symphony and Lyric Opera. Since then, I have worked in Music, both in the classroom for 21 years and my private voice and piano studio at home and at Loyola Academy, Steps Performing Arts Center in Lindenhurst and Standing Ovation Theatre in Gurnee, totaling 32 years. I have also been blessed to be the Assistant Music Director at St. Martha Parish in Morton Grove, and as the full Director of Music at St. Emily Parish in Mt. Prospect. I had the joy of working not only as a parish accompanist, but directing a Filipino/American Choir as well as the Children’s Choir, several adult choirs and a handbell choir. I now look forward to being able to provide an outlet through music for you and your children at KAPA! Thank you for your welcome and support! I look forward to meeting all of you!
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                       @include('pam')
                     </div>
 
                     <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-april.png">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionApril">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingApril">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseApril" aria-expanded="true" aria-controls="collapseApril">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">April Sorenson <span class="fw-normal" style="font-size: 0.65em;">Music Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseApril" class="accordion-collapse collapse show" aria-labelledby="headingApril" data-bs-parent="#accordionApril">
-                                        <div class="accordion-body">
-                                            <p>
-                                                April Sorenson, soprano, is a recent University of Wisconsin-Milwaukee (Summa Cum Laude) graduate with a Bachelor of Arts in Voice. Most recently, she premiered three operas at UWM in the roles of Juliette in Juliette et Roméo (Piirainen), Galileo in The Choice (Rebers), and Robin in Echo Ascension: Her Voice is Heard (Xai). She has performed partial roles as Olympia in The Tales of Hoffmann, Lucia in The Rape of Lucretia, Mademoiselle Silberklang in Der Schauspieldirektor, and the Queen of the Night in Die Zauberflöte, among others. She also covered the role of La Comtesse Adèle in Rossini’s Le Comte Ory with Chicago Summer Opera in 2019. Her other accomplishments include second place in the Third Year College Women division of the Wisconsin NATS Student Auditions, third place in the Fourth/Fifth Year College Treble division of WI NATS Student Auditions, a featured soloist with the UWM Wind Ensemble, and a featured soloist with the Racine Symphony Orchestra. She currently serves as a soprano choral scholar at the United Methodist Church of Whitefish Bay in Milwaukee.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        @include('april')
                     </div>
 
                     <div class="row mt-4">
