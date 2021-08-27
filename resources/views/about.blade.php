@@ -22,7 +22,7 @@
                         </div>
                         <div class="col-sm d-flex align-items-center">
                             <p>
-                                We believe that all students deserve a plan to feel safe and inspired to grow as artists. Through quality dance and music lessons we teach life lessons that foster community, develop leadership skills, self confidence, motivation, and creative thinking. Regardless of ability, all students will experience the joy of reaching his or her personal level of accomplishment and find a passion for the arts that will last a lifetime.
+                                We believe that all students deserve a plan to feel safe and inspired to grow as artists. Through quality dance and music lessons in Kenosha WI we teach life lessons that foster community, develop leadership skills, self confidence, motivation, and creative thinking. Regardless of ability, all students will experience the joy of reaching his or her personal level of accomplishment and find a passion for the arts that will last a lifetime.
                                 <br><br>
                                 We strive to create a positive community for families through empathetic, attentive service and the understanding that each family’s educational needs are different. Parents will find a convenient location, friendly service, and welcoming atmosphere. We encourage a culture of interaction among families to create comfort, loyalty and value for everyone. Families stay with us because of our commitment to excellence and costumer care.
                             </p>
