@@ -50,6 +50,10 @@ Route::get('/dance-classes-in-lake-county-il', function () {
     return view('/dance-classes-in-lake-county-il');
 });
 
+Route::get('/employment', function () {
+    return view('/employment');
+});
+
 Route::get('contact', 'App\Http\Controllers\ContactUsController@create')->name('contact.create');
 Route::post('contact', 'App\Http\Controllers\ContactUsController@store')->name('contact.store');
 

@@ -117,6 +117,9 @@
                                         </form>
                                     </li>
                                 @endguest
+                                <li class="list-group-item px-0 border-0">
+                                    <a class="text-decoration-none txt-blue" href="/employment">Employment</a>
+                                </li>
                             </ul>
                         </div>
                     </div>
