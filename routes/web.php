@@ -38,6 +38,18 @@ Route::get('/music-lessons-kenosha', function () {
     return view('/music-lessons-kenosha');
 });
 
+Route::get('/dance-classes-in-zion-il', function () {
+    return view('/dance-classes-in-zion-il');
+});
+
+Route::get('/dance-classes-in-winthrop-harbor', function () {
+    return view('/dance-classes-in-winthrop-harbor');
+});
+
+Route::get('/dance-classes-in-lake-county-il', function () {
+    return view('/dance-classes-in-lake-county-il');
+});
+
 Route::get('contact', 'App\Http\Controllers\ContactUsController@create')->name('contact.create');
 Route::post('contact', 'App\Http\Controllers\ContactUsController@store')->name('contact.store');
 
