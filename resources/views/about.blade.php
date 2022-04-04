@@ -17,7 +17,10 @@
                     <div class="row">
                         <div class="col-sm">
                             <div>
-                                <iframe src="https://player.vimeo.com/video/252797638" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                                <video controls style="height: auto; width: 100%;">
+                                    <source src="/images/kapa-studio-story.mp4" type="video/mp4">
+                                </video>
+{{--                                <iframe src="https://player.vimeo.com/video/252797638" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>--}}
                             </div>
                         </div>
                         <div class="col-sm d-flex align-items-center">
