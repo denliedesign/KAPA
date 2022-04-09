@@ -133,6 +133,7 @@
     © 2021 Kenosha Academy of Performing Arts
 </div>
 <p id="credit" class="bg-dark text-center m-0">
+    <a class="text-decoration-none" href="/dance-classes-in-racine-wi"><small class="text-muted">Dance Classes In Racine WI</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/dance-classes-in-lake-county-il"><small class="text-muted">Dance Classes In Lake County IL</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/dance-classes-in-zion-il"><small class="text-muted">Dance Classes In Zion IL</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/dance-classes-in-winthrop-harbor"><small class="text-muted">Dance Classes In Winthrop Harbor</small></a>

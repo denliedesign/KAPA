@@ -50,6 +50,10 @@ Route::get('/dance-classes-in-lake-county-il', function () {
     return view('/dance-classes-in-lake-county-il');
 });
 
+Route::get('/dance-classes-in-racine-wi', function () {
+    return view('/dance-classes-in-racine-wi');
+});
+
 Route::get('/employment', function () {
     return view('/employment');
 });
