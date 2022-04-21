@@ -54,6 +54,10 @@ Route::get('/dance-classes-in-racine-wi', function () {
     return view('/dance-classes-in-racine-wi');
 });
 
+Route::get('/music-lessons-in-zion-il', function () {
+    return view('/music-lessons-in-zion-il');
+});
+
 Route::get('/employment', function () {
     return view('/employment');
 });
