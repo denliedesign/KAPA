@@ -58,6 +58,10 @@ Route::get('/music-lessons-in-zion-il', function () {
     return view('/music-lessons-in-zion-il');
 });
 
+Route::get('/music-lessons-racine-wi', function () {
+    return view('/music-lessons-racine-wi');
+});
+
 Route::get('/employment', function () {
     return view('/employment');
 });
