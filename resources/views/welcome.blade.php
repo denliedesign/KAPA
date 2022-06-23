@@ -150,11 +150,12 @@
     <div class="bg-white py-5">
         <div class="container">
             <div class="row">
-{{--                <div class="col-sm d-flex align-items-center justify-content-center">--}}
-{{--                    <div class="">--}}
+                <div class="col-sm d-flex align-items-center justify-content-center">
+                    <div class="">
 {{--                        <img src="/images/logo-little-princess.png" alt="a little princess ballet" class="img-fluid">--}}
-{{--                    </div>--}}
-{{--                </div>--}}
+                        <img src="/images/ballet-shoes.jpg" alt="pointe shoes" class="img-fluid shadow rounded">
+                    </div>
+                </div>
                 <div class="col-sm d-flex align-items-center">
                     <div>
                         <div class="d-flex justify-content-center">
