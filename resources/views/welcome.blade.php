@@ -150,32 +150,42 @@
     <div class="bg-white py-5">
         <div class="container">
             <div class="row">
-                <div class="col-sm d-flex align-items-center justify-content-center">
-                    <div class="">
-                        <img src="/images/logo-little-princess.png" alt="a little princess ballet" class="img-fluid">
-                    </div>
-                </div>
+{{--                <div class="col-sm d-flex align-items-center justify-content-center">--}}
+{{--                    <div class="">--}}
+{{--                        <img src="/images/logo-little-princess.png" alt="a little princess ballet" class="img-fluid">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
                 <div class="col-sm d-flex align-items-center">
                     <div>
-{{--                        <div class="d-flex justify-content-center">--}}
-{{--                            <img src="/images/ballet-kenosha.png" alt="ballet kenosha logo" class="img-fluid">--}}
-{{--                        </div>--}}
+                        <div class="d-flex justify-content-center">
+                            <img src="/images/ballet-kenosha.png" alt="ballet kenosha logo" class="img-fluid">
+                        </div>
                         <div class="text-center">
-                            <p class="my-0 py-0 text-muted"><small>Ballet Kenosha Presents</small></p>
-                            <h2>A Little Princess</h2>
-                            <p class="lead">
-                                Saturday, April 30th 7:00pm at Bradford High School. Tickets on sale Friday, April 8th at 7:00pm
-                            </p>
+{{--                            <p class="my-0 py-0 text-muted"><small>Ballet Kenosha Presents</small></p>--}}
+{{--                            <h2>A Little Princess</h2>--}}
+                            <h2>Ballet Kenosha</h2>
+{{--                            <p class="lead">--}}
+{{--                                Saturday, April 30th 7:00pm at Bradford High School. Tickets on sale Friday, April 8th at 7:00pm--}}
+{{--                            </p>--}}
                         </div>
-                        <div class="mb-5 d-flex justify-content-center">
-                            <a href="https://25633.recitalticketing.com/landing.cfm" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family">&#10097; Tickets</div></a>
-                        </div>
+{{--                        <div class="mb-5 d-flex justify-content-center">--}}
+{{--                            <a href="https://25633.recitalticketing.com/landing.cfm" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family">&#10097; Tickets</div></a>--}}
+{{--                        </div>--}}
+{{--                        <p class="mb-5">--}}
+{{--                            Ballet Kenosha is our pre-professional ballet group. It has become an exciting addition to the local arts scene and provides a tremendous opportunity for young dancers, children and audience members alike to experience the magic of ballet.--}}
+{{--                            <br><br>--}}
+{{--                            Ballet Kenosha serves two purposes:--}}
+{{--                            <br>• To increase exposure to and appreciation for classical performance arts in the community--}}
+{{--                            <br>• To provide opportunities for area youth to gain training that mirrors that of the professional world. Each December, we stage a production of The Nutcracker. In the spring, we will produce a production of A Little Princess. Both productions will fulfill our mission to share beautiful classical performances with an eager audience. Students 5yrs old and up may audition for Ballet Kenosha.--}}
+{{--                        </p>--}}
                         <p class="mb-5">
                             Ballet Kenosha is our pre-professional ballet group. It has become an exciting addition to the local arts scene and provides a tremendous opportunity for young dancers, children and audience members alike to experience the magic of ballet.
                             <br><br>
                             Ballet Kenosha serves two purposes:
                             <br>• To increase exposure to and appreciation for classical performance arts in the community
-                            <br>• To provide opportunities for area youth to gain training that mirrors that of the professional world. Each December, we stage a production of The Nutcracker. In the spring, we will produce a production of A Little Princess. Both productions will fulfill our mission to share beautiful classical performances with an eager audience. Students 5yrs old and up may audition for Ballet Kenosha.
+                            <br>• To provide opportunities for area youth to gain training that mirrors that of the professional world.
+                            <br><br>
+                            Each December, we stage a production of The Nutcracker. In Spring 2022, we will produce a production of Alice in Wonderland. Both productions will fulfill our mission to share beautiful classical performances with an eager audience. Students 5 years old and up may audition for Ballet Kenosha.
                         </p>
                     </div>
                 </div>
