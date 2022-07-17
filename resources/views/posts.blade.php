@@ -14,7 +14,7 @@
             <h3 class="text-center py-5">Blog</h3>
             <div class="card-group">
 
-                        <div class="card m-3">
+                        <div class="card m-3 shadow rounded">
                             <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/finding-joy-in-the-ordinary-through-creative-play">
                                 <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
                             </a>
@@ -36,7 +36,7 @@
 
 
 
-                        <div class="card m-3">
+                        <div class="card m-3 shadow rounded">
                             <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/a-peek-inside-a-perfectionists-perspective">
                                 <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
                             </a>
@@ -54,8 +54,8 @@
                         </div>
 
 
-                        <div class="card m-3">
-                            <a class="blog-card-img" style="text-decoration: none; color: black;" href="">
+                        <div class="card m-3 shadow rounded">
+                            <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/the-gen-z-difference-career-and-lifestyle">
                                 <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
                             </a>
                             <div class="card-body">
