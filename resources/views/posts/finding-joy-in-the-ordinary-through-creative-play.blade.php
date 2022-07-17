@@ -15,8 +15,11 @@
             <div class="my-3 d-flex justify-content-center">
                 <a href="/images/blog-july.pdf" class="btn-opacity"><div class="shadow btn btn-kapa-teal btn-family mt-2">Read The PDF</div></a>
             </div>
-            <div class="my-3 d-flex justify-content-center">
-                <img src="/images/blog-july.jpg" alt="blog july" class="img-fluid">
+            <div class="py-3 d-flex justify-content-center">
+                <img src="/images/blog-july-1.jpg" alt="blog july" class="img-fluid">
+            </div>
+            <div class="py-3 d-flex justify-content-center">
+                <img src="/images/blog-july-2.jpg" alt="blog july" class="img-fluid">
             </div>
         </div>
     </div>

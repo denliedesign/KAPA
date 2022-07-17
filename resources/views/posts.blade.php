@@ -12,8 +12,8 @@
     <div class="bg-white">
         <div class="container">
             <h3 class="text-center pt-5">Blog</h3>
-            <div class="card-group">
-                <a href="/posts/finding-joy-in-the-ordinary-through-creative-play">
+            <div class="card-group row">
+                <a style="text-decoration: none; color: black;" href="/posts/finding-joy-in-the-ordinary-through-creative-play">
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">Finding Joy In The Ordinary Through Creative Play</h5>
@@ -30,7 +30,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="">
+                <a style="text-decoration: none; color: black;" href="">
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">A Peek Inside A Perfectionists Perspective</h5>
@@ -45,7 +45,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="">
+                <a style="text-decoration: none; color: black;" href="">
                     <div class="card">
                         <div class="card-body">
                             <h5 class="card-title">The Gen Z Difference: Career & Lifestyle</h5>
