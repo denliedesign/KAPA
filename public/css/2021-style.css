@@ -258,6 +258,10 @@ body {
     opacity: 70%;
 }
 
+.blog-card-img img {
+    transition: opacity 0.8s ease;
+}
+
 /*---------------------------------------*/
 /* BIO ACCORDION */
 /*---------------------------------------*/
