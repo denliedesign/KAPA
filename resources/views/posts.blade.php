@@ -11,12 +11,13 @@
 
     <div class="bg-white">
         <div class="container">
-            <h3 class="text-center pt-5">Blog</h3>
-            <div class="card-group row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3">
-                <div class="col">
-                    <a style="text-decoration: none; color: black;" href="/posts/finding-joy-in-the-ordinary-through-creative-play">
+            <h3 class="text-center py-5">Blog</h3>
+            <div class="card-group">
+
                         <div class="card">
-                            <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                            <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/finding-joy-in-the-ordinary-through-creative-play">
+                                <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                            </a>
                             <div class="card-body">
                                 <h5 class="card-title">Finding Joy In The Ordinary Through Creative Play</h5>
                                 <p class="card-text">School’s out and summer is here! For students - those words are
@@ -32,11 +33,13 @@
                             </div>
                         </div>
                     </a>
-                </div>
-                <div class="col">
-                    <a style="text-decoration: none; color: black;" href="">
+
+
+
                         <div class="card">
-                            <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                            <a class="blog-card-img" style="text-decoration: none; color: black;" href="">
+                                <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                            </a>
                             <div class="card-body">
                                 <h5 class="card-title">A Peek Inside A Perfectionists Perspective</h5>
                                 <p class="card-text">Have you ever wondered why perfectionism is so prevalent among
@@ -49,12 +52,12 @@
                                 <small class="text-muted">June 2022</small>
                             </div>
                         </div>
-                    </a>
-                </div>
-                <div class="col">
-                    <a style="text-decoration: none; color: black;" href="">
+
+
                         <div class="card">
-                            <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                            <a class="blog-card-img" style="text-decoration: none; color: black;" href="">
+                                <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                            </a>
                             <div class="card-body">
                                 <h5 class="card-title">The Gen Z Difference: Career & Lifestyle</h5>
                                 <p class="card-text">As parents, educators, and leaders, we have a responsibility to
@@ -66,8 +69,7 @@
                                 <small class="text-muted">May 2022</small>
                             </div>
                         </div>
-                    </a>
-                </div>
+
             </div>
         </div>
     </div>

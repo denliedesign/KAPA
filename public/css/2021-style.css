@@ -254,6 +254,10 @@ body {
     background-size: cover;
 }
 
+.blog-card-img img:hover {
+    opacity: 70%;
+}
+
 /*---------------------------------------*/
 /* BIO ACCORDION */
 /*---------------------------------------*/
