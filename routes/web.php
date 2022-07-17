@@ -34,6 +34,20 @@ Route::get('/enroll', function () {
     return view('/enroll');
 });
 
+Route::get('/posts', function () {
+    return view('/posts');
+});
+
+Route::get('/posts/the-gen-z-difference-career-and-lifestyle', function () {
+    return view('/posts/the-gen-z-difference-career-and-lifestyle');
+});
+Route::get('/posts/a-peek-inside-a-perfectionists-perspective', function () {
+    return view('/posts/a-peek-inside-a-perfectionists-perspective');
+});
+Route::get('/posts/finding-joy-in-the-ordinary-through-creative-play', function () {
+    return view('/posts/finding-joy-in-the-ordinary-through-creative-play');
+});
+
 Route::get('/music-lessons-kenosha', function () {
     return view('/music-lessons-kenosha');
 });
