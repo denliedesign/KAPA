@@ -76,6 +76,10 @@ Route::get('/music-lessons-racine-wi', function () {
     return view('/music-lessons-racine-wi');
 });
 
+Route::get('/music-lessons-in-lake-county-il', function () {
+    return view('/music-lessons-in-lake-county-il');
+});
+
 Route::get('/employment', function () {
     return view('/employment');
 });
