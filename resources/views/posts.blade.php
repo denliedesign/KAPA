@@ -14,6 +14,23 @@
             <h3 class="text-center py-5">Blog</h3>
             <div class="card-group">
 
+                <div class="card m-3 shadow rounded">
+                    <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/embracing-the-rollercoaster-of-life">
+                        <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title">Embracing the Rollercoaster of Life & its Seasons of Joy</h5>
+                        <p class="card-text">Joy - an experience defined by “an intense feeling of deep spiritual
+                            connection, pleasure, and appreciation”. There’s simply nothing that
+                            can compare to the surrendering delight that joy brings. The
+                            unfortunate side, however, is that there are situations that distract us
+                            from those powerful, blissful moments of life.</p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">August 2022</small>
+                    </div>
+                </div>
+
                         <div class="card m-3 shadow rounded">
                             <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/finding-joy-in-the-ordinary-through-creative-play">
                                 <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
@@ -32,7 +49,7 @@
                                 <small class="text-muted">July 2022</small>
                             </div>
                         </div>
-                    </a>
+
 
 
 

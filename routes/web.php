@@ -47,6 +47,9 @@ Route::get('/posts/a-peek-inside-a-perfectionists-perspective', function () {
 Route::get('/posts/finding-joy-in-the-ordinary-through-creative-play', function () {
     return view('/posts/finding-joy-in-the-ordinary-through-creative-play');
 });
+Route::get('/posts/embracing-the-rollercoaster-of-life', function () {
+    return view('/posts/embracing-the-rollercoaster-of-life');
+});
 
 Route::get('/music-lessons-kenosha', function () {
     return view('/music-lessons-kenosha');
