@@ -98,9 +98,9 @@
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="https://docs.google.com/forms/d/e/1FAIpQLSciIxB5T0A4wyXQS3WsMqPpXM-98rxVdTjgFjCYT0e2n6O0MA/viewform" target="_blank">Absence Form</a>
                                 </li>
-                                <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="https://www.discountdance.com/search/teacherid:50372?tp=50372" target="_blank">Dance Boutique</a>
-                                </li>
+{{--                                <li class="list-group-item px-0 border-0">--}}
+{{--                                    <a class="text-decoration-none txt-blue" href="https://www.discountdance.com/search/teacherid:50372?tp=50372" target="_blank">Dance Boutique</a>--}}
+{{--                                </li>--}}
                                 @guest
                                     <li class="list-group-item px-0 border-0">
                                         <a class="text-decoration-none txt-blue" href="{{ route('login') }}">{{ __('Admin') }}</a>
