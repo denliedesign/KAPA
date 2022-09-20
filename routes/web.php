@@ -83,6 +83,10 @@ Route::get('/music-lessons-in-lake-county-il', function () {
     return view('/music-lessons-in-lake-county-il');
 });
 
+Route::get('/music-lessons-in-winthrop-harbor', function () {
+    return view('/music-lessons-in-winthrop-harbor');
+});
+
 Route::get('/employment', function () {
     return view('/employment');
 });

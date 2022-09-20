@@ -130,7 +130,7 @@
 </div>
 
 <div id="bottom" class="bg-dark text-white-50 text-center pt-3">
-    © 2021 Kenosha Academy of Performing Arts
+    © 2022 Kenosha Academy of Performing Arts
 </div>
 <p id="credit" class="bg-dark text-center m-0">
     <a class="text-decoration-none" href="/dance-classes-in-racine-wi"><small class="text-muted">Dance Classes In Racine WI</small></a> <span class="text-muted">/</span>
@@ -142,7 +142,8 @@
     <a class="text-decoration-none" href="/music-lessons-kenosha"><small class="text-muted">Music Lessons In Kenosha</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/music-lessons-racine-wi"><small class="text-muted">Music Lessons Racine WI</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/music-lessons-in-zion-il"><small class="text-muted">Music Lessons In Zion IL</small></a> <span class="text-muted">/</span>
-    <a class="text-decoration-none" href="/music-lessons-in-zion-il"><small class="text-muted">Music Lessons In Lake County IL</small></a>
+    <a class="text-decoration-none" href="/music-lessons-in-zion-il"><small class="text-muted">Music Lessons In Lake County IL</small></a> <span class="text-muted">/</span>
+    <a class="text-decoration-none" href="/music-lessons-in-winthrop-harbor"><small class="text-muted">Music Lessons In Winthrop Harbor</small></a>
 </p>
 <p id="credit" class="bg-dark text-center pb-3 m-0">
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
