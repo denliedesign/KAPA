@@ -50,6 +50,9 @@ Route::get('/posts/finding-joy-in-the-ordinary-through-creative-play', function 
 Route::get('/posts/embracing-the-rollercoaster-of-life', function () {
     return view('/posts/embracing-the-rollercoaster-of-life');
 });
+Route::get('/posts/beyond-the-stage', function () {
+    return view('/posts/beyond-the-stage');
+});
 
 Route::get('/music-lessons-kenosha', function () {
     return view('/music-lessons-kenosha');

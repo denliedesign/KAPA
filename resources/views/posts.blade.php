@@ -13,6 +13,23 @@
         <div class="container">
             <h3 class="text-center py-5">Blog</h3>
             <div class="card-group">
+                <div class="card m-3 shadow rounded">
+                    <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/beyond-the-stage">
+                        <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title">Beyond the Stage - The Gift of Body Intelligence</h5>
+                        <p class="card-text">There are so many reasons that people invest in dance. For some, it’s
+                            the spectacle of performance or the escape through entertainment. For
+                            others, it’s the marriage of athleticism and artistry, and the sense of
+                            community. Regardless of what lures you into the dance world, dance
+                            inherently gives back to its community in the most beautiful ways
+                            imaginable.</p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">December 2022</small>
+                    </div>
+                </div>
 
                 <div class="card m-3 shadow rounded">
                     <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/embracing-the-rollercoaster-of-life">
@@ -49,44 +66,40 @@
                                 <small class="text-muted">July 2022</small>
                             </div>
                         </div>
-
-
-
-
-                        <div class="card m-3 shadow rounded">
-                            <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/a-peek-inside-a-perfectionists-perspective">
-                                <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
-                            </a>
-                            <div class="card-body">
-                                <h5 class="card-title">A Peek Inside A Perfectionists Perspective</h5>
-                                <p class="card-text">Have you ever wondered why perfectionism is so prevalent among
-                                    dancers? Like many other athletes and artists, dancers tend to be
-                                    their own worst critic. As we close competition season and enter
-                                    recital time, it may be helpful to understand why dancers trend
-                                    towards a perfectionist outlook.</p>
-                            </div>
-                            <div class="card-footer">
-                                <small class="text-muted">June 2022</small>
-                            </div>
-                        </div>
-
-
-                        <div class="card m-3 shadow rounded">
-                            <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/the-gen-z-difference-career-and-lifestyle">
-                                <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
-                            </a>
-                            <div class="card-body">
-                                <h5 class="card-title">The Gen Z Difference: Career & Lifestyle</h5>
-                                <p class="card-text">As parents, educators, and leaders, we have a responsibility to
-                                    mentor future generations in their career pursuits. However, it’s safe to
-                                    say that things look very different from when the Millennial and Gen X
-                                    generations navigated through that territory.</p>
-                            </div>
-                            <div class="card-footer">
-                                <small class="text-muted">May 2022</small>
-                            </div>
-                        </div>
-
+            </div>
+            <div class="card-group">
+                <div class="card m-3 shadow rounded">
+                    <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/the-gen-z-difference-career-and-lifestyle">
+                        <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title">The Gen Z Difference: Career & Lifestyle</h5>
+                        <p class="card-text">As parents, educators, and leaders, we have a responsibility to
+                            mentor future generations in their career pursuits. However, it’s safe to
+                            say that things look very different from when the Millennial and Gen X
+                            generations navigated through that territory.</p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">May 2022</small>
+                    </div>
+                </div>
+                <div class="card m-3 shadow rounded">
+                    <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/a-peek-inside-a-perfectionists-perspective">
+                        <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title">A Peek Inside A Perfectionists Perspective</h5>
+                        <p class="card-text">Have you ever wondered why perfectionism is so prevalent among
+                            dancers? Like many other athletes and artists, dancers tend to be
+                            their own worst critic. As we close competition season and enter
+                            recital time, it may be helpful to understand why dancers trend
+                            towards a perfectionist outlook.</p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">June 2022</small>
+                    </div>
+                </div>
+                <div class="card m-3 shadow rounded" style="opacity: 0;"></div>
             </div>
         </div>
     </div>
