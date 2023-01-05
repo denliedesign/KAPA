@@ -19,7 +19,7 @@
                 <img src="/images/dec-kapa-1.jpg" alt="blog december" class="img-fluid">
             </div>
             <div class="py-3 d-flex justify-content-center">
-                <img src="/images/dec-kapa-1.jpg" alt="blog december" class="img-fluid">
+                <img src="/images/dec-kapa-2.jpg" alt="blog december" class="img-fluid">
             </div>
         </div>
     </div>

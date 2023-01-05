@@ -53,6 +53,9 @@ Route::get('/posts/embracing-the-rollercoaster-of-life', function () {
 Route::get('/posts/beyond-the-stage', function () {
     return view('/posts/beyond-the-stage');
 });
+Route::get('/posts/witnessing-your-dancers-reevolution', function () {
+    return view('/posts/witnessing-your-dancers-reevolution');
+});
 
 Route::get('/music-lessons-kenosha', function () {
     return view('/music-lessons-kenosha');

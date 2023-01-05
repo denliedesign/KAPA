@@ -14,6 +14,25 @@
             <h3 class="text-center py-5">Blog</h3>
             <div class="card-group">
                 <div class="card m-3 shadow rounded">
+                    <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/witnessing-your-dancers-reevolution">
+                        <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title">Beyond the Stage - Witnessing Your Dancer's Re(evolution)</h5>
+                        <p class="card-text">
+                            There are so many reasons that people invest in dance. For some, it’s
+                            the spectacle of performance or the escape through entertainment. For
+                            others, it’s the marriage of athleticism and artistry, and the sense of
+                            community. Regardless of what lures you into the dance world, dance
+                            inherently gives back to its community in the most beautiful ways
+                            imaginable.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">January 2023</small>
+                    </div>
+                </div>
+                <div class="card m-3 shadow rounded">
                     <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/beyond-the-stage">
                         <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
                     </a>
@@ -47,27 +66,26 @@
                         <small class="text-muted">August 2022</small>
                     </div>
                 </div>
-
-                        <div class="card m-3 shadow rounded">
-                            <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/finding-joy-in-the-ordinary-through-creative-play">
-                                <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
-                            </a>
-                            <div class="card-body">
-                                <h5 class="card-title">Finding Joy In The Ordinary Through Creative Play</h5>
-                                <p class="card-text">School’s out and summer is here! For students - those words are
-                                    sweet music to their ears. For parents? Well, let’s just say there’s a
-                                    lot more on their minds now. Children are eager to spend their days in
-                                    the hot sun, spend quality time with friends and family and create
-                                    lasting memories. During these moments away from the rigor of the
-                                    academic school year, parents and caretakers ought to encourage
-                                    relaxation, fun, and creative play.</p>
-                            </div>
-                            <div class="card-footer">
-                                <small class="text-muted">July 2022</small>
-                            </div>
-                        </div>
             </div>
             <div class="card-group">
+                <div class="card m-3 shadow rounded">
+                    <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/finding-joy-in-the-ordinary-through-creative-play">
+                        <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title">Finding Joy In The Ordinary Through Creative Play</h5>
+                        <p class="card-text">School’s out and summer is here! For students - those words are
+                            sweet music to their ears. For parents? Well, let’s just say there’s a
+                            lot more on their minds now. Children are eager to spend their days in
+                            the hot sun, spend quality time with friends and family and create
+                            lasting memories. During these moments away from the rigor of the
+                            academic school year, parents and caretakers ought to encourage
+                            relaxation, fun, and creative play.</p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">July 2022</small>
+                    </div>
+                </div>
                 <div class="card m-3 shadow rounded">
                     <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/the-gen-z-difference-career-and-lifestyle">
                         <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
@@ -99,7 +117,7 @@
                         <small class="text-muted">June 2022</small>
                     </div>
                 </div>
-                <div class="card m-3 shadow rounded" style="opacity: 0;"></div>
+{{--                <div class="card m-3 shadow rounded" style="opacity: 0;"></div>--}}
             </div>
         </div>
     </div>
