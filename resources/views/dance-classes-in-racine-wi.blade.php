@@ -25,14 +25,17 @@ racine dance (10) - 1
                     <div class="row">
                         <div class="col-sm my-3 d-flex align-items-center">
                             <div>
-                                <h2 class="pt-5 text-center">Join Our Racine Dance Family</h2>
+                                <h2 class="pt-5 text-center">Join Our Dance Family</h2>
                                 <p>
-                                    If you are looking for Racine dance studios, we invite you to dance with us at our Academy of Performing Arts. If you are looking for
+                                    If you are looking for Racine dance studios, we invite you to dance with us at our Kenosha Academy of Performing Arts. We are located in Kenosha, WI but serve all neighboring cities. If you are looking for
                                     <a href="/classes#class-1-2">toddler dance classes or dance for your preschooler</a>, we offer classes for as young as 1-2 as well as 3-4 all the way up to 18. We have ballet dance lessons in Racine WI as well as jazz, tap, hip hop, contemporary, acro, musical theater, dance team, and more. To see a full list what we offer click on the button below!
                                 </p>
                                 <div class="d-flex justify-content-center">
                                     <a href="/#class-categories"><button class="btn btn-lg btn-kapa-teal shadow">Learn More</button></a>
                                 </div>
+{{--                                <p class="pt-3">--}}
+{{--                                    *We are Kenosha Academy of Performing Arts and our studio is located in Kenosha, WI but we welcome families from Racine to join us! This page was specifically built to encourage more residents of Racine to find a second home for their children at our dance studio in Kenosha, WI.--}}
+{{--                                </p>--}}
                             </div>
                         </div>
                         <div class="col-sm my-3 d-flex align-items-center justify-content-center">
