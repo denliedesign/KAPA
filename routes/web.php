@@ -100,6 +100,9 @@ Route::get('/music-lessons-in-winthrop-harbor', function () {
 Route::get('/racine-dance-classes', function () {
     return view('/racine-dance-classes');
 });
+Route::get('/zion-dance-studio', function () {
+    return view('/zion-dance-studio');
+});
 
 Route::get('/employment', function () {
     return view('/employment');
