@@ -18,6 +18,7 @@
                             <div>
                                 <img src="/images/mtjgd-logo.png" alt="mtjgd logo" style="height: 275px; width: auto;">
                                 <h2 class="pt-5 text-center">More Than Just Dance Classes in Winthrop Harbor</h2>
+                                <h5 class="p-2 rounded" style="background: yellow;"><em>Kenosha Academy of Performing Arts located in Kenosha, WI welcomes families from all surrounding areas including Winthrop Harbor.</em></h5>
                                 <p>
                                     We provide dance classes in Winthrop Harbor, but more than that we develop excellence in our kids inside and outside the dance studio. Our dance family not only values technique but also community, friendship, encouragement, and growth. For dance studios in Winthrop Harbor, come to our Academy!
                                 </p>

@@ -97,6 +97,10 @@ Route::get('/music-lessons-in-winthrop-harbor', function () {
     return view('/music-lessons-in-winthrop-harbor');
 });
 
+Route::get('/racine-dance-classes', function () {
+    return view('/racine-dance-classes');
+});
+
 Route::get('/employment', function () {
     return view('/employment');
 });

@@ -17,6 +17,7 @@
                         <div class="col-sm my-3 d-flex align-items-center">
                             <div>
                                 <h2 class="pt-5 text-center">Looking for Dance Studios in Zion IL?</h2>
+                                <h5 class="p-2 rounded" style="background: yellow;"><em>Kenosha Academy of Performing Arts located in Kenosha, WI welcomes families from all surrounding areas including Zion, IL.</em></h5>
                                 <p>
                                     We provide dance classes in Zion IL. We offer many styles of dance at our Academy of Performing Arts and have options for every age.
                                 </p>

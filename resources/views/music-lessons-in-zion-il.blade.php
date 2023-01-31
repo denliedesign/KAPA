@@ -14,6 +14,7 @@
             <div class="d-flex justify-content-center">
                 <div class="text-center">
                     <h2 class="pt-5 text-center">Zion Music School</h2>
+                    <h5 class="p-2 rounded" style="background: yellow;"><em>Kenosha Academy of Performing Arts located in Kenosha, WI welcomes families from all surrounding areas including Zion, IL.</em></h5>
                     <p>
                         At our Academy of Performing Arts one of our many qualified music instructors will lead you in a private 30 minute session. We offer guitar lessons in Zion IL, we offer piano lessons in Zion IL, as well as drums and voice.
                         <br>For a <strong>complimentary trial music lesson</strong>, call us at

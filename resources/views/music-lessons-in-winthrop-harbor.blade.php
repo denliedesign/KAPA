@@ -14,6 +14,7 @@
             <div class="d-flex justify-content-center">
                 <div class="text-center">
                     <h2 class="pt-5 text-center">Music Lessons in Winthrop Harbor</h2>
+                    <h5 class="p-2 rounded" style="background: yellow;"><em>Kenosha Academy of Performing Arts located in Kenosha, WI welcomes families from all surrounding areas including Winthrop Harbor.</em></h5>
                     <p>
                         At our Academy of Performing Arts we offer private lessons for voice, violin, drums, piano, and guitar in winthrop harbor. Our university trained instructors in music & education are ready to pour into your kids their knowledge, experience, and love of the arts. We have multiple teacher choices for each instrument so your child can find the perfect fit. Schedule a complimentary trial lesson by calling us at
                         <a href="tel:+2626053951">262-605-3951</a>.
