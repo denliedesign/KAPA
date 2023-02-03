@@ -56,6 +56,9 @@ Route::get('/posts/beyond-the-stage', function () {
 Route::get('/posts/witnessing-your-dancers-reevolution', function () {
     return view('/posts/witnessing-your-dancers-reevolution');
 });
+Route::get('/posts/dance-training-remedies-instant-gratification', function () {
+    return view('/posts/dance-training-remedies-instant-gratification');
+});
 
 Route::get('/music-lessons-kenosha', function () {
     return view('/music-lessons-kenosha');

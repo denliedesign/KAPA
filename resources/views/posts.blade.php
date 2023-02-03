@@ -13,6 +13,27 @@
         <div class="container">
             <h3 class="text-center py-5">Blog</h3>
             <div class="card-group">
+
+                <div class="card m-3 shadow rounded">
+                    <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/dance-training-remedies-instant-gratification">
+                        <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title">Beyond the Stage - Dance Training Remedies Instant Gratification</h5>
+                        <p class="card-text">
+                            There are so many reasons that people invest in dance. For some, it’s
+                            the spectacle of performance or the escape through entertainment. For
+                            others, it’s the marriage of athleticism and artistry, and the sense of
+                            community. Regardless of what lures you into the dance world, dance
+                            inherently gives back to its community in the most beautiful ways
+                            imaginable.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted">February 2023</small>
+                    </div>
+                </div>
+
                 <div class="card m-3 shadow rounded">
                     <a class="blog-card-img" style="text-decoration: none; color: black;" href="/posts/witnessing-your-dancers-reevolution">
                         <img src="/images/blog-banner.png" class="card-img-top" alt="collage of dancers">
