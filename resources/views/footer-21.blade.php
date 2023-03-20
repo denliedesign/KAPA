@@ -149,5 +149,6 @@
     <a class="text-decoration-none" href="/music-lessons-lake-county"><small class="text-muted">Music Lessons Lake County</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/racine-dance-classes"><small class="text-muted">Racine Dance Classes</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/zion-dance-studio"><small class="text-muted">Zion Dance Studio</small></a> <span class="text-muted">/</span>
+    <a class="text-decoration-none" href="/musical-theater-kenosha"><small class="text-muted">Musical Theater Kenosha</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
 </p>

@@ -107,6 +107,10 @@ Route::get('/zion-dance-studio', function () {
     return view('/zion-dance-studio');
 });
 
+Route::get('/musical-theater-kenosha', function () {
+    return view('/musical-theater-kenosha');
+});
+
 Route::get('/employment', function () {
     return view('/employment');
 });
