@@ -5,10 +5,10 @@
                 <p class="txt-kapa-orange">Ready To Leap In?</p>
                 <a href="https://app.jackrabbitclass.com/regv2.asp?id=504663" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family">&#10097; Enroll today!</div></a>
             </div>
-            <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-kapa-pink">Want To Give It A Try?</p>
-                <a href="https://kenosha-academy-performing-arts.studiosuite.io/s/trial-classes-kleuvjip" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family">&#10097; Schedule A Trial!</div></a>
-            </div>
+{{--            <div class="next-step mt-3 mt-md-0 shadow">--}}
+{{--                <p class="txt-kapa-pink">Want To Give It A Try?</p>--}}
+{{--                <a href="https://kenosha-academy-performing-arts.studiosuite.io/s/trial-classes-kleuvjip" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family">&#10097; Schedule A Trial!</div></a>--}}
+{{--            </div>--}}
             <div class="next-step mt-3 mt-md-0 shadow">
                 <p class="txt-kapa-green">Still Have Questions?</p>
                 <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family">&#10097; Contact Us!</div></a>
