@@ -60,33 +60,48 @@
 </head>
 
 <!-- Start of Async Drift Code -->
-<script>
-    "use strict";
+{{--<script>--}}
+{{--    "use strict";--}}
 
-    !function() {
-        var t = window.driftt = window.drift = window.driftt || [];
-        if (!t.init) {
-            if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
-            t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
-                t.factory = function(e) {
-                    return function() {
-                        var n = Array.prototype.slice.call(arguments);
-                        return n.unshift(e), t.push(n), t;
-                    };
-                }, t.methods.forEach(function(e) {
-                t[e] = t.factory(e);
-            }), t.load = function(t) {
-                var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
-                o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
-                var i = document.getElementsByTagName("script")[0];
-                i.parentNode.insertBefore(o, i);
-            };
-        }
-    }();
-    drift.SNIPPET_VERSION = '0.3.1';
-    drift.load('bi96fic7adpe');
-</script>
+{{--    !function() {--}}
+{{--        var t = window.driftt = window.drift = window.driftt || [];--}}
+{{--        if (!t.init) {--}}
+{{--            if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));--}}
+{{--            t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],--}}
+{{--                t.factory = function(e) {--}}
+{{--                    return function() {--}}
+{{--                        var n = Array.prototype.slice.call(arguments);--}}
+{{--                        return n.unshift(e), t.push(n), t;--}}
+{{--                    };--}}
+{{--                }, t.methods.forEach(function(e) {--}}
+{{--                t[e] = t.factory(e);--}}
+{{--            }), t.load = function(t) {--}}
+{{--                var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");--}}
+{{--                o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";--}}
+{{--                var i = document.getElementsByTagName("script")[0];--}}
+{{--                i.parentNode.insertBefore(o, i);--}}
+{{--            };--}}
+{{--        }--}}
+{{--    }();--}}
+{{--    drift.SNIPPET_VERSION = '0.3.1';--}}
+{{--    drift.load('bi96fic7adpe');--}}
+{{--</script>--}}
 <!-- End of Async Drift Code -->
+
+<chat-widget style="--chat-widget-primary-color: #1C8F91; --chat-widget-active-color:#1C8F91
+;--chat-widget-bubble-color: #1C8F91" location-id="SFUCfS0n61zJppMfKcwS" heading="Have
+a question about our studio?" sub-heading="Enter your question below and we'll get back to you
+
+shortly!" prompt-msg="Hi there, have a question about our programs? Text us here." success-
+             msg="Someone from our studio will contact you back shortly!" prompt-
+             avatar="https://firebasestorage.googleapis.com/v0/b/highlevel-
+backend.appspot.com/o/locationPhotos%2FSFUCfS0n61zJppMfKcwS%2Fchat-widget-person?
+
+alt=media&token=18963adc-078f-4c28-9a1f-c61bd2a25d01" agency-name="StudioHub"
+             agency-website="getmorestudents.net" ></chat-widget> <script
+
+    src="https://widgets.leadconnectorhq.com/loader.js" data-resources-
+    url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" > </script>
 
 <body>
 

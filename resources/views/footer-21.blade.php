@@ -11,7 +11,7 @@
 {{--            </div>--}}
             <div class="next-step mt-3 mt-md-0 shadow">
                 <p class="txt-kapa-green">Still Have Questions?</p>
-                <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family">&#10097; Contact Us!</div></a>
+                <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family">&#10097; Get Started!</div></a>
             </div>
         </div>
     </div>
