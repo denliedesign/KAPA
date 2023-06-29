@@ -113,6 +113,9 @@ Route::get('/musical-theater-kenosha', function () {
 Route::get('/dance-team-kenosha', function () {
     return view('/dance-team-kenosha');
 });
+Route::get('/racine-dance-studios', function () {
+    return view('/racine-dance-studios');
+});
 
 Route::get('/employment', function () {
     return view('/employment');
