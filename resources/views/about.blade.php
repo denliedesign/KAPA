@@ -60,9 +60,9 @@
                         </div>
                     </div>
 
-                    <div class="row mt-4">
-                        @include('todd')
-                    </div>
+{{--                    <div class="row mt-4">--}}
+{{--                        @include('todd')--}}
+{{--                    </div>--}}
 
                     <div class="row mt-4">
                         <div class="col-sm-3 d-flex align-items-center justify-content-center">
@@ -90,135 +90,135 @@
                         </div>
                     </div>
 
-                    <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-mitchell.png">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionMitchell">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingMitchell">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMitchell" aria-expanded="true" aria-controls="collapseMitchell">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark">Mitchell Haley <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseMitchell" class="accordion-collapse collapse show" aria-labelledby="headingMitchell" data-bs-parent="#accordionMitchell">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Born and raised in Harrodsburg, Kentucky Mitchell started his dance training at the age of 19 at Morehead State University (MSU). Here he performed with the MSU Dance Ensemble for 3 years, participated in the MSU Colorguard, choreographing for the spring concerts, and earned many awards for his choreography. He also was the lead male dancer in MSU production of “Grease” dancing under renowned choreographer Ron Hutchins. In 2011 he graduated with a B.A. in Business Administration and a Dance Minor. Afterwards he transferred into Western Kentucky University (WKU) to finish out his Dance degree. Here he participated in the WKU Dance Company performing events throughout the state and community, as well as choreographing for student shows. He also performed in the WKU production on “Oklahoma!” In 2013 he graduated with his B.A. in Dance from Western Kentucky University. Mitchell has also had the opportunity to train under the direction of: Carlos Dos Santos (Ailey), Richard Smith, Robert McKee, Laura Wade, Arcos Dance, MamLuft &Co, and Lexington Ballet. Since moving to Chicago Mitchell has received his 200 hour Yoga Certification and started freelance work. Mitchell is now in his 3rd season dancing with Inaside Chicago Dance as a performing apprentice and choreographer. He has also recently joined BISI Chicago Dance Company as a Company member and is a new company member with Jay-Son Tisa Dance Company.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+{{--                    <div class="row mt-4">--}}
+{{--                        <div class="col-sm-3 d-flex align-items-center justify-content-center">--}}
+{{--                            <img class="img-fluid rounded shadow" src="images/staff-mitchell.png">--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-9">--}}
+{{--                            <div class="accordion" id="accordionMitchell">--}}
+{{--                                <div class="accordion-item">--}}
+{{--                                    <h2 class="accordion-header" id="headingMitchell">--}}
+{{--                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMitchell" aria-expanded="true" aria-controls="collapseMitchell">--}}
+{{--                                            <div>--}}
+{{--                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark">Mitchell Haley <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>--}}
+{{--                                            </div>--}}
+{{--                                        </button>--}}
+{{--                                    </h2>--}}
+{{--                                    <div id="collapseMitchell" class="accordion-collapse collapse show" aria-labelledby="headingMitchell" data-bs-parent="#accordionMitchell">--}}
+{{--                                        <div class="accordion-body">--}}
+{{--                                            <p>--}}
+{{--                                                Born and raised in Harrodsburg, Kentucky Mitchell started his dance training at the age of 19 at Morehead State University (MSU). Here he performed with the MSU Dance Ensemble for 3 years, participated in the MSU Colorguard, choreographing for the spring concerts, and earned many awards for his choreography. He also was the lead male dancer in MSU production of “Grease” dancing under renowned choreographer Ron Hutchins. In 2011 he graduated with a B.A. in Business Administration and a Dance Minor. Afterwards he transferred into Western Kentucky University (WKU) to finish out his Dance degree. Here he participated in the WKU Dance Company performing events throughout the state and community, as well as choreographing for student shows. He also performed in the WKU production on “Oklahoma!” In 2013 he graduated with his B.A. in Dance from Western Kentucky University. Mitchell has also had the opportunity to train under the direction of: Carlos Dos Santos (Ailey), Richard Smith, Robert McKee, Laura Wade, Arcos Dance, MamLuft &Co, and Lexington Ballet. Since moving to Chicago Mitchell has received his 200 hour Yoga Certification and started freelance work. Mitchell is now in his 3rd season dancing with Inaside Chicago Dance as a performing apprentice and choreographer. He has also recently joined BISI Chicago Dance Company as a Company member and is a new company member with Jay-Son Tisa Dance Company.--}}
+{{--                                            </p>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
 
-                    <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-carley.png">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionCarley">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingCarley">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCarley" aria-expanded="true" aria-controls="collapseCarley">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark">Carley Klebba <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseCarley" class="accordion-collapse collapse show" aria-labelledby="headingCarley" data-bs-parent="#accordionCarley">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Carley began her training in Howell, MI where her primary focus was the Cecchetti Method of Ballet. She went on to earn her B.A. in dance from Grand Valley State University where she graduated with honors, and was the recipient of the Marlene Kenneway Love of Dance Scholarship. She has had the honor of working with notable choreographers such as Lauren Edson, Julie Blume, Autumn Eckman, Rebecca Lemme, Anna Liceica, Erica Fischbach, Eddy Ocampo, and Charles Askegard, to name a few. In addition to performing with the Grand Valley Dance Company throughout college she also performed with the The Grand Rapids Opera, and The Plymouth-Canton Metro Shores Ballet Company. After graduating Carley moved to Chicago to start working with LEVELdance, and she continued her training on a scholarship with Aerial Dance Chicago. She is currently dancing with Chicago Repertory Ballet and has enjoyed touring and performing with them the past two seasons. Carley loves teaching and sharing her love of ballet with her students throughout the Chicagoland area, and is excited to teach in Kenosha this year.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+{{--                    <div class="row mt-4">--}}
+{{--                        <div class="col-sm-3 d-flex align-items-center justify-content-center">--}}
+{{--                            <img class="img-fluid rounded shadow" src="images/staff-carley.png">--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-9">--}}
+{{--                            <div class="accordion" id="accordionCarley">--}}
+{{--                                <div class="accordion-item">--}}
+{{--                                    <h2 class="accordion-header" id="headingCarley">--}}
+{{--                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCarley" aria-expanded="true" aria-controls="collapseCarley">--}}
+{{--                                            <div>--}}
+{{--                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark">Carley Klebba <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>--}}
+{{--                                            </div>--}}
+{{--                                        </button>--}}
+{{--                                    </h2>--}}
+{{--                                    <div id="collapseCarley" class="accordion-collapse collapse show" aria-labelledby="headingCarley" data-bs-parent="#accordionCarley">--}}
+{{--                                        <div class="accordion-body">--}}
+{{--                                            <p>--}}
+{{--                                                Carley began her training in Howell, MI where her primary focus was the Cecchetti Method of Ballet. She went on to earn her B.A. in dance from Grand Valley State University where she graduated with honors, and was the recipient of the Marlene Kenneway Love of Dance Scholarship. She has had the honor of working with notable choreographers such as Lauren Edson, Julie Blume, Autumn Eckman, Rebecca Lemme, Anna Liceica, Erica Fischbach, Eddy Ocampo, and Charles Askegard, to name a few. In addition to performing with the Grand Valley Dance Company throughout college she also performed with the The Grand Rapids Opera, and The Plymouth-Canton Metro Shores Ballet Company. After graduating Carley moved to Chicago to start working with LEVELdance, and she continued her training on a scholarship with Aerial Dance Chicago. She is currently dancing with Chicago Repertory Ballet and has enjoyed touring and performing with them the past two seasons. Carley loves teaching and sharing her love of ballet with her students throughout the Chicagoland area, and is excited to teach in Kenosha this year.--}}
+{{--                                            </p>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
 
-                    <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-charles.png">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionCharles">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingCharles">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCharles" aria-expanded="true" aria-controls="collapseCharles">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark">Charles Brown (Buzzy) <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseCharles" class="accordion-collapse collapse show" aria-labelledby="headingCharles" data-bs-parent="#accordionCharles">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Buzzy created/coached/ choreographed for college hip hop team, “Iluzion.” Capable of choreographing hip hop routines and combinations for all ages; he has provide workshops for multiple Studios, Camps, Schools and Teams that gives them a fun but still challenging style of hip hop to learn. Along with teaching dance, Buzzy is a physical education teacher in the Milwaukee Public School District and a current USATF athlete training to make the USA team for the next world and Olympic Games.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+{{--                    <div class="row mt-4">--}}
+{{--                        <div class="col-sm-3 d-flex align-items-center justify-content-center">--}}
+{{--                            <img class="img-fluid rounded shadow" src="images/staff-charles.png">--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-9">--}}
+{{--                            <div class="accordion" id="accordionCharles">--}}
+{{--                                <div class="accordion-item">--}}
+{{--                                    <h2 class="accordion-header" id="headingCharles">--}}
+{{--                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCharles" aria-expanded="true" aria-controls="collapseCharles">--}}
+{{--                                            <div>--}}
+{{--                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark">Charles Brown (Buzzy) <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>--}}
+{{--                                            </div>--}}
+{{--                                        </button>--}}
+{{--                                    </h2>--}}
+{{--                                    <div id="collapseCharles" class="accordion-collapse collapse show" aria-labelledby="headingCharles" data-bs-parent="#accordionCharles">--}}
+{{--                                        <div class="accordion-body">--}}
+{{--                                            <p>--}}
+{{--                                                Buzzy created/coached/ choreographed for college hip hop team, “Iluzion.” Capable of choreographing hip hop routines and combinations for all ages; he has provide workshops for multiple Studios, Camps, Schools and Teams that gives them a fun but still challenging style of hip hop to learn. Along with teaching dance, Buzzy is a physical education teacher in the Milwaukee Public School District and a current USATF athlete training to make the USA team for the next world and Olympic Games.--}}
+{{--                                            </p>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
 
-                    <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-jenna.jpg">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionJenna">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingJenna">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseJenna" aria-expanded="true" aria-controls="collapseJenna">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">JENNA JOZEFOWSKI <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseJenna" class="accordion-collapse collapse show" aria-labelledby="headingJenna" data-bs-parent="#accordionJenna">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Jenna Jozefowski graduated from The University of Akron with a BA in Dance and a minor in Business Administration. During college, she performed with The University of Akron Dance Company where she was known for choreographing tap pieces for student performances. She is a member of the Midwest Committee of the Cecchetti Council of America and currently holds a Grade IV Teacher’s Certificate. Professionally, she has performed with Joel Hall Dancers II, RASA Dance Chicago and Chicago Dance Crash. She is currently working as an independent performance artist and choreographer; performing and presenting her work in Rebound Dance Festival, Dance Chicago, and Chicago Freelance Dance, and Inaside Chicago Dance’s Choreographic Sponsorship Event to name a few. She finds that getting herself to dance classes regularly inspires her own teaching, and can often be found taking class in Chicago during her free time. In addition to dance, Jenna is a NASM certified personal trainer and an RYT-200 certified yoga instructor through White Lotus Foundation and CorePower Yoga. She loves using her knowledge of anatomy, fitness, and wellness to enhance her students’ dance experience. Jenna looks forward to her 5th year teaching at Kenosha Academy of Performing Arts!
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+{{--                    <div class="row mt-4">--}}
+{{--                        <div class="col-sm-3 d-flex align-items-center justify-content-center">--}}
+{{--                            <img class="img-fluid rounded shadow" src="images/staff-jenna.jpg">--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-9">--}}
+{{--                            <div class="accordion" id="accordionJenna">--}}
+{{--                                <div class="accordion-item">--}}
+{{--                                    <h2 class="accordion-header" id="headingJenna">--}}
+{{--                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseJenna" aria-expanded="true" aria-controls="collapseJenna">--}}
+{{--                                            <div>--}}
+{{--                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">JENNA JOZEFOWSKI <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>--}}
+{{--                                            </div>--}}
+{{--                                        </button>--}}
+{{--                                    </h2>--}}
+{{--                                    <div id="collapseJenna" class="accordion-collapse collapse show" aria-labelledby="headingJenna" data-bs-parent="#accordionJenna">--}}
+{{--                                        <div class="accordion-body">--}}
+{{--                                            <p>--}}
+{{--                                                Jenna Jozefowski graduated from The University of Akron with a BA in Dance and a minor in Business Administration. During college, she performed with The University of Akron Dance Company where she was known for choreographing tap pieces for student performances. She is a member of the Midwest Committee of the Cecchetti Council of America and currently holds a Grade IV Teacher’s Certificate. Professionally, she has performed with Joel Hall Dancers II, RASA Dance Chicago and Chicago Dance Crash. She is currently working as an independent performance artist and choreographer; performing and presenting her work in Rebound Dance Festival, Dance Chicago, and Chicago Freelance Dance, and Inaside Chicago Dance’s Choreographic Sponsorship Event to name a few. She finds that getting herself to dance classes regularly inspires her own teaching, and can often be found taking class in Chicago during her free time. In addition to dance, Jenna is a NASM certified personal trainer and an RYT-200 certified yoga instructor through White Lotus Foundation and CorePower Yoga. She loves using her knowledge of anatomy, fitness, and wellness to enhance her students’ dance experience. Jenna looks forward to her 5th year teaching at Kenosha Academy of Performing Arts!--}}
+{{--                                            </p>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
 
-                    <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-heather.png">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionHeather">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingHeather">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHeather" aria-expanded="true" aria-controls="collapseHeather">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">HEATHER CHENAULT <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseHeather" class="accordion-collapse collapse show" aria-labelledby="headingHeather" data-bs-parent="#accordionHeather">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Heather Chenault was born in Bowling Green, KY, where she studied dance at Dance Arts of Bowling Green from the age of 3 until she graduated high school in 2009. She then attended Western Kentucky University where she received a BA in Dance. At WKU she studied Ballet, Jazz, Modern, Choreography, Pedagogy, Improvisation, and joined the University’s dance company. Heather toured Civitavecchia and Tolfa, Italy with the WKU dance company. She studied at The Ailey School in NYC where she was able to perform at their Summer Sizzler Event. After graduating WKU in 2013, Heather joined Sideways Contemporary Dance Company in Atlanta, GA where she performed with the company for the 2013-2014 season. Heather is currently dancing with Jayson Tisa Dance Company in Chicago.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+{{--                    <div class="row mt-4">--}}
+{{--                        <div class="col-sm-3 d-flex align-items-center justify-content-center">--}}
+{{--                            <img class="img-fluid rounded shadow" src="images/staff-heather.png">--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-9">--}}
+{{--                            <div class="accordion" id="accordionHeather">--}}
+{{--                                <div class="accordion-item">--}}
+{{--                                    <h2 class="accordion-header" id="headingHeather">--}}
+{{--                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHeather" aria-expanded="true" aria-controls="collapseHeather">--}}
+{{--                                            <div>--}}
+{{--                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">HEATHER CHENAULT <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>--}}
+{{--                                            </div>--}}
+{{--                                        </button>--}}
+{{--                                    </h2>--}}
+{{--                                    <div id="collapseHeather" class="accordion-collapse collapse show" aria-labelledby="headingHeather" data-bs-parent="#accordionHeather">--}}
+{{--                                        <div class="accordion-body">--}}
+{{--                                            <p>--}}
+{{--                                                Heather Chenault was born in Bowling Green, KY, where she studied dance at Dance Arts of Bowling Green from the age of 3 until she graduated high school in 2009. She then attended Western Kentucky University where she received a BA in Dance. At WKU she studied Ballet, Jazz, Modern, Choreography, Pedagogy, Improvisation, and joined the University’s dance company. Heather toured Civitavecchia and Tolfa, Italy with the WKU dance company. She studied at The Ailey School in NYC where she was able to perform at their Summer Sizzler Event. After graduating WKU in 2013, Heather joined Sideways Contemporary Dance Company in Atlanta, GA where she performed with the company for the 2013-2014 season. Heather is currently dancing with Jayson Tisa Dance Company in Chicago.--}}
+{{--                                            </p>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
 
                     <div class="row mt-4">
                         <div class="col-sm-3 d-flex align-items-center justify-content-center">
@@ -246,35 +246,35 @@
                         </div>
                     </div>
 
-                    <div class="row mt-4">
-                        @include('kristin')
-                    </div>
+{{--                    <div class="row mt-4">--}}
+{{--                        @include('kristin')--}}
+{{--                    </div>--}}
 
-                    <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-becky.png">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionKristin">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingBecky">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseBecky" aria-expanded="true" aria-controls="collapseBecky">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">Becky Mikos <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseBecky" class="accordion-collapse collapse show" aria-labelledby="headingBecky" data-bs-parent="#accordionBecky">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Becky Mikos (Chicago, IL) received her early training from the Judith Svalander School of Ballet in the Chicagoland area. She furthered her pre-professional training at intensives hosted by River North Dance Chicago, The Washington Ballet, Complexions Contemporary Ballet, and Lar Lubovitch Dance Company before going on to receive her BFA degree in Ballet and Modern dance from Texas Christian University in Fort Worth, TX. Professionally, Becky has performed with Spectrum Dance Theater in Seattle, WA under the direction of Donald Byrd as well as with Chicago-based companies Chicago Repertory Ballet (Wade Schaaf), LEVELdance (Eddy Ocampo) and Cerqua Rivera Dance Theater (Wilfredo Rivera). In 2012, she took her dance film, Collectors to the Reykjavik International Film Festival in Iceland. Currently, Becky continues to teach and choreograph while working full time in Marketing. This is her first time choreographing the Nutcracker on the Kenosha Academy of Performing Arts.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+{{--                    <div class="row mt-4">--}}
+{{--                        <div class="col-sm-3 d-flex align-items-center justify-content-center">--}}
+{{--                            <img class="img-fluid rounded shadow" src="images/staff-becky.png">--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-9">--}}
+{{--                            <div class="accordion" id="accordionKristin">--}}
+{{--                                <div class="accordion-item">--}}
+{{--                                    <h2 class="accordion-header" id="headingBecky">--}}
+{{--                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseBecky" aria-expanded="true" aria-controls="collapseBecky">--}}
+{{--                                            <div>--}}
+{{--                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">Becky Mikos <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>--}}
+{{--                                            </div>--}}
+{{--                                        </button>--}}
+{{--                                    </h2>--}}
+{{--                                    <div id="collapseBecky" class="accordion-collapse collapse show" aria-labelledby="headingBecky" data-bs-parent="#accordionBecky">--}}
+{{--                                        <div class="accordion-body">--}}
+{{--                                            <p>--}}
+{{--                                                Becky Mikos (Chicago, IL) received her early training from the Judith Svalander School of Ballet in the Chicagoland area. She furthered her pre-professional training at intensives hosted by River North Dance Chicago, The Washington Ballet, Complexions Contemporary Ballet, and Lar Lubovitch Dance Company before going on to receive her BFA degree in Ballet and Modern dance from Texas Christian University in Fort Worth, TX. Professionally, Becky has performed with Spectrum Dance Theater in Seattle, WA under the direction of Donald Byrd as well as with Chicago-based companies Chicago Repertory Ballet (Wade Schaaf), LEVELdance (Eddy Ocampo) and Cerqua Rivera Dance Theater (Wilfredo Rivera). In 2012, she took her dance film, Collectors to the Reykjavik International Film Festival in Iceland. Currently, Becky continues to teach and choreograph while working full time in Marketing. This is her first time choreographing the Nutcracker on the Kenosha Academy of Performing Arts.--}}
+{{--                                            </p>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
 
                     <div class="row mt-4">
                         <div class="col-sm-3 d-flex align-items-center justify-content-center">
@@ -354,31 +354,31 @@
                         </div>
                     </div>
 
-                    <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-mai.png">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionMai">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingMai">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMai" aria-expanded="true" aria-controls="collapseMai">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">Mai Claypool <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseMai" class="accordion-collapse collapse show" aria-labelledby="headingMai" data-bs-parent="#accordionMai">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Mai Claypool was born in Saitama, Japan. She trained at Kishi Ballet studio, The Matsuyama Ballet School in Tokyo, Japan, The Joffrey Ballet School and Steps on Broadway in NYC under the direction of Yoko Kishi, Yoko Morishita, David Howard, Finis Jhung, Michael O’Brian, Francesca Corkle and Eleanor D’Antuono. She has received awards from ballet competitions, such as the Hope Award and Achievement of Excellence. Mai danced with Lyric Opera of Chicago, Florida Dance Theatre and Metropolitan Ballet. She has turned her passion for dance towards teaching and spreading the joy of dance. She has been teaching ballet, pointe, variations, modern and contemporary at several schools in New York, Illinois, Florida and Japan. She is currently teaching at Hubbard Street Youth Program and The Joffrey Academy of Dance. Mai is an American Ballet Theatre® Certified Teacher in levels Primary through Level 7 of the ABT® National Training Curriculum.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+{{--                    <div class="row mt-4">--}}
+{{--                        <div class="col-sm-3 d-flex align-items-center justify-content-center">--}}
+{{--                            <img class="img-fluid rounded shadow" src="images/staff-mai.png">--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-9">--}}
+{{--                            <div class="accordion" id="accordionMai">--}}
+{{--                                <div class="accordion-item">--}}
+{{--                                    <h2 class="accordion-header" id="headingMai">--}}
+{{--                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMai" aria-expanded="true" aria-controls="collapseMai">--}}
+{{--                                            <div>--}}
+{{--                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">Mai Claypool <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>--}}
+{{--                                            </div>--}}
+{{--                                        </button>--}}
+{{--                                    </h2>--}}
+{{--                                    <div id="collapseMai" class="accordion-collapse collapse show" aria-labelledby="headingMai" data-bs-parent="#accordionMai">--}}
+{{--                                        <div class="accordion-body">--}}
+{{--                                            <p>--}}
+{{--                                                Mai Claypool was born in Saitama, Japan. She trained at Kishi Ballet studio, The Matsuyama Ballet School in Tokyo, Japan, The Joffrey Ballet School and Steps on Broadway in NYC under the direction of Yoko Kishi, Yoko Morishita, David Howard, Finis Jhung, Michael O’Brian, Francesca Corkle and Eleanor D’Antuono. She has received awards from ballet competitions, such as the Hope Award and Achievement of Excellence. Mai danced with Lyric Opera of Chicago, Florida Dance Theatre and Metropolitan Ballet. She has turned her passion for dance towards teaching and spreading the joy of dance. She has been teaching ballet, pointe, variations, modern and contemporary at several schools in New York, Illinois, Florida and Japan. She is currently teaching at Hubbard Street Youth Program and The Joffrey Academy of Dance. Mai is an American Ballet Theatre® Certified Teacher in levels Primary through Level 7 of the ABT® National Training Curriculum.--}}
+{{--                                            </p>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
 
                     <div class="row mt-4">
                         <div class="col-sm-3 d-flex align-items-center justify-content-center">
@@ -406,67 +406,67 @@
                         </div>
                     </div>
 
-                    <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-sarah-music.png">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionMiller">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingMiller">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMiller" aria-expanded="true" aria-controls="collapseMiller">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">Sarah Miller <span class="fw-normal" style="font-size: 0.65em;">Music Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseMiller" class="accordion-collapse collapse show" aria-labelledby="headingMiller" data-bs-parent="#accordionMiller">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Sarah Miller, a native of Waukegan, IL, has taught throughout Chicagoland for over twelve years. She began her study of the violin at age five, at the Jack Benny Center for the Arts. She holds a Bachelor of Music in Violin Performance and a Bachelor of Science in Violin with an outside field of Mathematics from the Jacobs School of Music at Indiana University, as well as a Music Education Certificate from DePaul University. Her past instructors include Alison Dalton of the Chicago Symphony Orchestra and Henryk Kowalski of Indiana University. She has played in orchestras under the direction of Cliff Colnot, David Effron, Uriel Segal and Leonard Slatkin. She has performed in master classes for Gerardo Ribeiro, John Sharp, and David Taylor. Mrs. Miller was the orchestra director at Culver Elementary School in Niles, IL for four years. She currently teaches privately as well as performs in local orchestras. She lives in Kenosha with her husband and three children.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+{{--                    <div class="row mt-4">--}}
+{{--                        <div class="col-sm-3 d-flex align-items-center justify-content-center">--}}
+{{--                            <img class="img-fluid rounded shadow" src="images/staff-sarah-music.png">--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-9">--}}
+{{--                            <div class="accordion" id="accordionMiller">--}}
+{{--                                <div class="accordion-item">--}}
+{{--                                    <h2 class="accordion-header" id="headingMiller">--}}
+{{--                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMiller" aria-expanded="true" aria-controls="collapseMiller">--}}
+{{--                                            <div>--}}
+{{--                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">Sarah Miller <span class="fw-normal" style="font-size: 0.65em;">Music Instructor</span></p>--}}
+{{--                                            </div>--}}
+{{--                                        </button>--}}
+{{--                                    </h2>--}}
+{{--                                    <div id="collapseMiller" class="accordion-collapse collapse show" aria-labelledby="headingMiller" data-bs-parent="#accordionMiller">--}}
+{{--                                        <div class="accordion-body">--}}
+{{--                                            <p>--}}
+{{--                                                Sarah Miller, a native of Waukegan, IL, has taught throughout Chicagoland for over twelve years. She began her study of the violin at age five, at the Jack Benny Center for the Arts. She holds a Bachelor of Music in Violin Performance and a Bachelor of Science in Violin with an outside field of Mathematics from the Jacobs School of Music at Indiana University, as well as a Music Education Certificate from DePaul University. Her past instructors include Alison Dalton of the Chicago Symphony Orchestra and Henryk Kowalski of Indiana University. She has played in orchestras under the direction of Cliff Colnot, David Effron, Uriel Segal and Leonard Slatkin. She has performed in master classes for Gerardo Ribeiro, John Sharp, and David Taylor. Mrs. Miller was the orchestra director at Culver Elementary School in Niles, IL for four years. She currently teaches privately as well as performs in local orchestras. She lives in Kenosha with her husband and three children.--}}
+{{--                                            </p>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
 
-                    <div class="row mt-4">
-                       @include('pam')
-                    </div>
+{{--                    <div class="row mt-4">--}}
+{{--                       @include('pam')--}}
+{{--                    </div>--}}
 
                     <div class="row mt-4">
                         @include('april')
                     </div>
 
-                    <div class="row mt-4">
-                        <div class="col-sm-3 d-flex align-items-center justify-content-center">
-                            <img class="img-fluid rounded shadow" src="images/staff-anna.png">
-                        </div>
-                        <div class="col-sm-9">
-                            <div class="accordion" id="accordionAnna">
-                                <div class="accordion-item">
-                                    <h2 class="accordion-header" id="headingAnna">
-                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseAnna" aria-expanded="true" aria-controls="collapseAnna">
-                                            <div>
-                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">Anna Lewis Brown <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>
-                                            </div>
-                                        </button>
-                                    </h2>
-                                    <div id="collapseAnna" class="accordion-collapse collapse show" aria-labelledby="headingAnna" data-bs-parent="#accordionAnna">
-                                        <div class="accordion-body">
-                                            <p>
-                                                Formally dancing since the age of 4, Anna received the majority of her dance training from Dancenter-North in Libertyville Illinois. There she performed in their annual Nutcracker, Spring, and Summer shows from 1st-12th grade, and into college. She was a member of their Junior and Senior Ballet Performance Company, Sole-2-Souls Tap Company, Upstairs Jazz Company, and Pre-Professional Track Programs. In 2009 she began running their summer dance camps for 3 years. During her time training and dance, she also studied martial arts and received her black belt from Northshore Academy of Martial arts at the age of 14.
-                                                <br><br>
-                                                After graduating high-school Anna went on to perform with, and work for Chicago Christian Youth Theater, CYT. As of 2020 Anna has been coaching CYT Kenosha’s Project Dance Teams for 6 years, as well as choreographing her 12th musical with the company. In 2010 Anna first started working for Avenue Dancewear, which she has since taken over management of, and currently runs and operates. Anna still actively pursues any and all opportunities to continue strengthening her dance education and developing her strengths as a dancer, teacher, and performer.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+{{--                    <div class="row mt-4">--}}
+{{--                        <div class="col-sm-3 d-flex align-items-center justify-content-center">--}}
+{{--                            <img class="img-fluid rounded shadow" src="images/staff-anna.png">--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-9">--}}
+{{--                            <div class="accordion" id="accordionAnna">--}}
+{{--                                <div class="accordion-item">--}}
+{{--                                    <h2 class="accordion-header" id="headingAnna">--}}
+{{--                                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseAnna" aria-expanded="true" aria-controls="collapseAnna">--}}
+{{--                                            <div>--}}
+{{--                                                <p style="font-size: 1.25em;" class="fw-bold mb-0 p-0 text-dark text-capitalize">Anna Lewis Brown <span class="fw-normal" style="font-size: 0.65em;">Dance Instructor</span></p>--}}
+{{--                                            </div>--}}
+{{--                                        </button>--}}
+{{--                                    </h2>--}}
+{{--                                    <div id="collapseAnna" class="accordion-collapse collapse show" aria-labelledby="headingAnna" data-bs-parent="#accordionAnna">--}}
+{{--                                        <div class="accordion-body">--}}
+{{--                                            <p>--}}
+{{--                                                Formally dancing since the age of 4, Anna received the majority of her dance training from Dancenter-North in Libertyville Illinois. There she performed in their annual Nutcracker, Spring, and Summer shows from 1st-12th grade, and into college. She was a member of their Junior and Senior Ballet Performance Company, Sole-2-Souls Tap Company, Upstairs Jazz Company, and Pre-Professional Track Programs. In 2009 she began running their summer dance camps for 3 years. During her time training and dance, she also studied martial arts and received her black belt from Northshore Academy of Martial arts at the age of 14.--}}
+{{--                                                <br><br>--}}
+{{--                                                After graduating high-school Anna went on to perform with, and work for Chicago Christian Youth Theater, CYT. As of 2020 Anna has been coaching CYT Kenosha’s Project Dance Teams for 6 years, as well as choreographing her 12th musical with the company. In 2010 Anna first started working for Avenue Dancewear, which she has since taken over management of, and currently runs and operates. Anna still actively pursues any and all opportunities to continue strengthening her dance education and developing her strengths as a dancer, teacher, and performer.--}}
+{{--                                            </p>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
 
                     <div class="row mt-4">
                         <div class="col-sm-3 d-flex align-items-center justify-content-center">
