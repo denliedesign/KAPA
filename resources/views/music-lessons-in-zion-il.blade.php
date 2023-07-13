@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'Music Lessons in Zion IL | Kenosha Academy of Performing Arts')
-@section('description', 'Zion Piano Lessons, Zion Guitar Lessons, & More. ')
+@section('description', 'Zion Piano Lessons, Zion Voice Lessons, & More. ')
 
 @section('content')
 
@@ -16,41 +16,41 @@
                     <h2 class="pt-5 text-center">Zion Music School</h2>
                     <h5 class="p-2 rounded" style="background: yellow;"><em>Kenosha Academy of Performing Arts located in Kenosha, WI welcomes families from all surrounding areas including Zion, IL.</em></h5>
                     <p>
-                        At our Academy of Performing Arts one of our many qualified music instructors will lead you in a private 30 minute session. We offer guitar lessons in Zion IL, we offer piano lessons in Zion IL, as well as drums and voice.
+                        At our Academy of Performing Arts one of our many qualified music instructors will lead you in a private 30 minute session. We offer voice lessons in Zion IL, we offer piano lessons in Zion IL, as well as drums and voice.
                         <br>For a <strong>complimentary trial music lesson</strong>, call us at
                         <a href="tel:+2626053951">262-605-3951</a>.
                     </p>
                 </div>
             </div>
             <div class="row text-center">
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <img src="/images/guitar-lessons-in-zion-il.jpg" alt="guitar" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">--}}
+{{--                    </div>--}}
+{{--                    <p class="lead my-1" style="font-size: 1.25em;">Zion Guitar Lessons</p>--}}
+{{--                    <a href="/enroll" target="_blank"><button class="btn btn-kapa-teal shadow">ENROLL</button></a>--}}
+{{--                </div>--}}
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/guitar-lessons-in-zion-il.jpg" alt="guitar" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
-                    </div>
-                    <p class="lead my-1" style="font-size: 1.25em;">Zion Guitar Lessons</p>
-                    <a href="/enroll" target="_blank"><button class="btn btn-kapa-teal shadow">ENROLL</button></a>
-                </div>
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <img src="/images/piano-lessons-in-zion-il.jpg" alt="guitar" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
+                        <img src="/images/piano-lessons-in-zion-il.jpg" alt="music" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
                     </div>
                     <p class="lead my-1" style="font-size: 1.25em;">Zion Piano Lessons</p>
                     <a href="/enroll" target="_blank"><button class="btn btn-kapa-orange shadow">ENROLL</button></a>
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/voice-lessons-in-zion-il.jpg" alt="guitar" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
+                        <img src="/images/voice-lessons-in-zion-il.jpg" alt="music" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
                     </div>
                     <p class="lead my-1" style="font-size: 1.25em;">Zion Voice Lessons</p>
                     <a href="/enroll" target="_blank"><button class="btn btn-kapa-pink shadow">ENROLL</button></a>
                 </div>
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <img src="/images/violin-lessons-in-zion-il.jpg" alt="guitar" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
-                    </div>
-                    <p class="lead my-1" style="font-size: 1.25em;">Zion Violin Lessons</p>
-                    <a href="/enroll" target="_blank"><button class="btn btn-kapa-green shadow">ENROLL</button></a>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <img src="/images/violin-lessons-in-zion-il.jpg" alt="music" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">--}}
+{{--                    </div>--}}
+{{--                    <p class="lead my-1" style="font-size: 1.25em;">Zion Violin Lessons</p>--}}
+{{--                    <a href="/enroll" target="_blank"><button class="btn btn-kapa-green shadow">ENROLL</button></a>--}}
+{{--                </div>--}}
             </div>
         </div>
     </div>

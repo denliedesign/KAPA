@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'Music Lessons Racine WI | Kenosha Academy of Performing Arts')
-@section('description', 'Guitar Lessons Racine, Piano Lessons Racine, & More. ')
+@section('description', 'Voice Lessons Racine, Piano Lessons Racine, & More. ')
 
 @section('content')
 
@@ -16,40 +16,40 @@
                     <h2 class="pt-5 text-center">Music Lessons in Racine WI</h2>
                     <h5 class="p-2 rounded" style="background: yellow;"><em>Kenosha Academy of Performing Arts located in Kenosha, WI welcomes families from all surrounding areas including Racine, WI.</em></h5>
                     <p>
-                        30 minute private music lessons available for piano, guitar, drums or voice. University trained instructors in music and education. Multiple teacher choices for each instrument so your child can find the perfect fit. Schedule a complimentary trial lesson by calling us at
+                        30 minute private music lessons available for piano, drums or voice. University trained instructors in music and education. Multiple teacher choices for each instrument so your child can find the perfect fit. Schedule a complimentary trial lesson by calling us at
                         <a href="tel:+2626053951">262-605-3951</a>.
                     </p>
                 </div>
             </div>
             <div class="row text-center">
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <img src="/images/guitar-lessons-racine.jpg" alt="guitar" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">--}}
+{{--                    </div>--}}
+{{--                    <p class="lead my-1" style="font-size: 1.25em;">Racine Guitar Lessons</p>--}}
+{{--                    <a href="/enroll" target="_blank"><button class="btn btn-kapa-teal shadow">ENROLL</button></a>--}}
+{{--                </div>--}}
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/guitar-lessons-racine.jpg" alt="guitar" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
-                    </div>
-                    <p class="lead my-1" style="font-size: 1.25em;">Racine Guitar Lessons</p>
-                    <a href="/enroll" target="_blank"><button class="btn btn-kapa-teal shadow">ENROLL</button></a>
-                </div>
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <img src="/images/piano-lessons-racine.jpg" alt="guitar" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
+                        <img src="/images/piano-lessons-racine.jpg" alt="music" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
                     </div>
                     <p class="lead my-1" style="font-size: 1.25em;">Racine Piano Lessons</p>
                     <a href="/enroll" target="_blank"><button class="btn btn-kapa-orange shadow">ENROLL</button></a>
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/voice-lessons-racine.jpg" alt="guitar" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
+                        <img src="/images/voice-lessons-racine.jpg" alt="music" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
                     </div>
                     <p class="lead my-1" style="font-size: 1.25em;">Racine Voice Lessons</p>
                     <a href="/enroll" target="_blank"><button class="btn btn-kapa-pink shadow">ENROLL</button></a>
                 </div>
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <img src="/images/violin-lessons-racine.jpg" alt="guitar" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
-                    </div>
-                    <p class="lead my-1" style="font-size: 1.25em;">Racine Violin Lessons</p>
-                    <a href="/enroll" target="_blank"><button class="btn btn-kapa-green shadow">ENROLL</button></a>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <img src="/images/violin-lessons-racine.jpg" alt="music" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">--}}
+{{--                    </div>--}}
+{{--                    <p class="lead my-1" style="font-size: 1.25em;">Racine Violin Lessons</p>--}}
+{{--                    <a href="/enroll" target="_blank"><button class="btn btn-kapa-green shadow">ENROLL</button></a>--}}
+{{--                </div>--}}
             </div>
         </div>
     </div>

@@ -82,6 +82,7 @@
         <div class="container pb-5">
             <h2 class="text-center pt-5">Music Lessons in Kenosha WI</h2>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
+                <div class="col-sm mt-4"></div>
                 <div class="col-sm mt-4 text-center">
                     <img src="/images/kenosha-piano-lessons.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-teal btn-family mt-2" style="width: 100%;">Piano</div></a>
@@ -92,16 +93,17 @@
                     <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Voice</div></a>
                     <a style="text-decoration: none;" href="/music-lessons-kenosha"><small class="text-muted">Kenosha Voice Lessons</small></a>
                 </div>
-                <div class="col-sm mt-4 text-center">
-                    <img src="/images/kenosha-guitar-lessons.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Guitar</div></a>
-                    <a style="text-decoration: none;" href="/music-lessons-kenosha"><small class="text-muted">Kenosha Guitar Lessons</small></a>
-                </div>
-                <div class="col-sm mt-4 text-center">
-                    <img src="/images/kenosha-violin-lessons.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">
-                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Violin</div></a>
-                    <a style="text-decoration: none;" href="/music-lessons-kenosha"><small class="text-muted">Kenosha Violin Lessons</small></a>
-                </div>
+                <div class="col-sm mt-4"></div>
+{{--                <div class="col-sm mt-4 text-center">--}}
+{{--                    <img src="/images/kenosha-guitar-lessons.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: -20% 0; width: 100%;">--}}
+{{--                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Guitar</div></a>--}}
+{{--                    <a style="text-decoration: none;" href="/music-lessons-kenosha"><small class="text-muted">Kenosha Guitar Lessons</small></a>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm mt-4 text-center">--}}
+{{--                    <img src="/images/kenosha-violin-lessons.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: 45% 60%; width: 100%;">--}}
+{{--                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Violin</div></a>--}}
+{{--                    <a style="text-decoration: none;" href="/music-lessons-kenosha"><small class="text-muted">Kenosha Violin Lessons</small></a>--}}
+{{--                </div>--}}
 {{--                <div class="col-sm mt-4">--}}
 {{--                    <img src="/images/drums.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: -20% 0; width: 100%;">--}}
 {{--                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Drums</div></a>--}}

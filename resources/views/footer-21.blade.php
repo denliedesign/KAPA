@@ -142,7 +142,7 @@
     <a class="text-decoration-none" href="/music-lessons-kenosha"><small class="text-muted">Music Lessons In Kenosha</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/music-lessons-racine-wi"><small class="text-muted">Music Lessons Racine WI</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/music-lessons-in-zion-il"><small class="text-muted">Music Lessons In Zion IL</small></a> <span class="text-muted">/</span>
-    <a class="text-decoration-none" href="/music-lessons-in-zion-il"><small class="text-muted">Music Lessons In Lake County IL</small></a> <span class="text-muted">/</span>
+    <a class="text-decoration-none" href="/music-lessons-in-lake-county-il"><small class="text-muted">Music Lessons In Lake County IL</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/music-lessons-in-winthrop-harbor"><small class="text-muted">Music Lessons In Winthrop Harbor</small></a>
 </p>
 <p id="credit" class="bg-dark text-center m-0">
