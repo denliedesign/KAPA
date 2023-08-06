@@ -136,7 +136,8 @@
     <a class="text-decoration-none" href="/dance-classes-in-racine-wi"><small class="text-muted">Dance Classes In Racine WI</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/dance-classes-in-lake-county-il"><small class="text-muted">Dance Classes In Lake County IL</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/dance-classes-in-zion-il"><small class="text-muted">Dance Classes In Zion IL</small></a> <span class="text-muted">/</span>
-    <a class="text-decoration-none" href="/dance-classes-in-winthrop-harbor"><small class="text-muted">Dance Classes In Winthrop Harbor</small></a>
+    <a class="text-decoration-none" href="/dance-classes-in-winthrop-harbor"><small class="text-muted">Dance Classes In Winthrop Harbor</small></a> <span class="text-muted">/</span>
+    <a class="text-decoration-none" href="/dance-studios-in-lake-county-il"><small class="text-muted">Dance Studios Lake County IL</small></a>
 </p>
 <p id="credit" class="bg-dark text-center m-0">
     <a class="text-decoration-none" href="/music-lessons-kenosha"><small class="text-muted">Music Lessons In Kenosha</small></a> <span class="text-muted">/</span>

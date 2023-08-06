@@ -116,6 +116,9 @@ Route::get('/dance-team-kenosha', function () {
 Route::get('/racine-dance-studios', function () {
     return view('/racine-dance-studios');
 });
+Route::get('/dance-studios-in-lake-county-il', function () {
+    return view('/dance-studios-in-lake-county-il');
+});
 
 Route::get('/employment', function () {
     return view('/employment');
