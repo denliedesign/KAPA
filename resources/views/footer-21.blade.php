@@ -132,27 +132,28 @@
 <div id="bottom" class="bg-dark text-white-50 text-center pt-3">
     © 2022 Kenosha Academy of Performing Arts
 </div>
-<p id="credit" class="bg-dark text-center m-0">
+<p id="credit" class="bg-dark text-center m-0 px-2">
     <a class="text-decoration-none" href="/dance-classes-in-racine-wi"><small class="text-muted">Dance Classes In Racine WI</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/dance-classes-in-lake-county-il"><small class="text-muted">Dance Classes In Lake County IL</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/dance-classes-in-zion-il"><small class="text-muted">Dance Classes In Zion IL</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/dance-classes-in-winthrop-harbor"><small class="text-muted">Dance Classes In Winthrop Harbor</small></a> <span class="text-muted">/</span>
-    <a class="text-decoration-none" href="/dance-studios-in-lake-county-il"><small class="text-muted">Dance Studios Lake County IL</small></a>
-</p>
-<p id="credit" class="bg-dark text-center m-0">
+    <a class="text-decoration-none" href="/dance-studios-in-lake-county-il"><small class="text-muted">Dance Studios Lake County IL</small></a> <span class="text-muted">/</span>
+{{--</p>--}}
+{{--<p id="credit" class="bg-dark text-center m-0">--}}
     <a class="text-decoration-none" href="/music-lessons-kenosha"><small class="text-muted">Music Lessons In Kenosha</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/music-lessons-racine-wi"><small class="text-muted">Music Lessons Racine WI</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/music-lessons-in-zion-il"><small class="text-muted">Music Lessons In Zion IL</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/music-lessons-in-lake-county-il"><small class="text-muted">Music Lessons In Lake County IL</small></a> <span class="text-muted">/</span>
-    <a class="text-decoration-none" href="/music-lessons-in-winthrop-harbor"><small class="text-muted">Music Lessons In Winthrop Harbor</small></a>
-</p>
-<p id="credit" class="bg-dark text-center m-0">
+    <a class="text-decoration-none" href="/music-lessons-in-winthrop-harbor"><small class="text-muted">Music Lessons In Winthrop Harbor</small></a> <span class="text-muted">/</span>
+{{--</p>--}}
+{{--<p id="credit" class="bg-dark text-center m-0">--}}
     <a class="text-decoration-none" href="/music-lessons-lake-county"><small class="text-muted">Music Lessons Lake County</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/racine-dance-classes"><small class="text-muted">Racine Dance Classes</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/zion-dance-studio"><small class="text-muted">Zion Dance Studio</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/musical-theater-kenosha"><small class="text-muted">Musical Theater Kenosha</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/dance-team-kenosha"><small class="text-muted">Dance Team Kenosha</small></a> <span class="text-muted">/</span>
-    <a class="text-decoration-none" href="/racine-dance-studios"><small class="text-muted">Racine Dance Studios</small></a>
+    <a class="text-decoration-none" href="/racine-dance-studios"><small class="text-muted">Racine Dance Studios</small></a> <span class="text-muted">/</span>
+    <a class="text-decoration-none" href="/dance-studios-in-racine"><small class="text-muted">Dance Studios in Racine</small></a> <span class="text-muted">/</span>
 </p>
 <p id="credit" class="bg-dark text-center pb-3 m-0">
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
