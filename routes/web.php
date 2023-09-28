@@ -122,6 +122,9 @@ Route::get('/dance-studios-in-lake-county-il', function () {
 Route::get('/dance-studios-in-racine', function () {
     return view('/dance-studios-in-racine');
 });
+Route::get('/dance-in-lake-county-il', function () {
+    return view('/dance-in-lake-county-il');
+});
 
 Route::get('/employment', function () {
     return view('/employment');

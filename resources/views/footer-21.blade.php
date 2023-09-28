@@ -148,6 +148,7 @@
 {{--</p>--}}
 {{--<p id="credit" class="bg-dark text-center m-0">--}}
     <a class="text-decoration-none" href="/music-lessons-lake-county"><small class="text-muted">Music Lessons Lake County</small></a> <span class="text-muted">/</span>
+    <a class="text-decoration-none" href="/dance-in-lake-county-il"><small class="text-muted">Dance in Lake County IL</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/racine-dance-classes"><small class="text-muted">Racine Dance Classes</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/zion-dance-studio"><small class="text-muted">Zion Dance Studio</small></a> <span class="text-muted">/</span>
     <a class="text-decoration-none" href="/musical-theater-kenosha"><small class="text-muted">Musical Theater Kenosha</small></a> <span class="text-muted">/</span>
