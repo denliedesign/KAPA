@@ -120,8 +120,11 @@ body {
 .btn-kapa-teal { background: rgba(28, 143, 145, 1); color: white;}
 .btn-kapa-teal-outline { border: 2px solid rgba(28, 143, 145, 1); background: transparent; transition: 0.8s all ease;}
 .btn-kapa-orange { background: rgba(235, 151, 29, 1); color: white;}
+.btn-kapa-orange-outline { border: 2px solid rgba(235, 151, 29, 1); background: transparent; transition: 0.8s all ease;}
 .btn-kapa-pink { background: rgba(209, 60, 152, 1); color: white;}
+.btn-kapa-pink-outline { border: 2px solid rgba(209, 60, 152, 1); background: transparent; transition: 0.8s all ease;}
 .btn-kapa-green { background: rgba(150, 154, 60, 1); color: white;}
+.btn-kapa-green-outline { border: 2px solid rgba(150, 154, 60, 1); background: transparent; transition: 0.8s all ease;}
 
 .btn-kapa-teal-outline:hover { background: rgba(28, 143, 145, 1); color: white; }
 

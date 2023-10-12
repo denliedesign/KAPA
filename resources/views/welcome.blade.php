@@ -67,15 +67,15 @@
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/class-performance-companies.png" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-performing-classes" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Performance Companies</div></a>
+                    <a href="/classes#class-performing-groups" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%; font-size: 0.95em; line-height: 2.2;">Community Performing Groups</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/class-specialty.png" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-specialty-classes" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Specialty Classes</div></a>
+                    <a href="/classes#class-specialty" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-pink btn-family mt-2" style="width: 100%;">Specialty Classes</div></a>
                 </div>
                 <div class="col-sm mt-4">
                     <img src="/images/class-camps.png" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 752px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-camps" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Camps</div></a>
+                    <a href="/classes#class-camps" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-green btn-family mt-2" style="width: 100%;">Camps</div></a>
                 </div>
             </div>
         </div>

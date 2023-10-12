@@ -33,7 +33,7 @@
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="phone-portrait-outline"></ion-icon>
-                            262.383.4812
+                            262.384.5151
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="mail"></ion-icon>
@@ -72,9 +72,9 @@
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="https://app.jackrabbitclass.com/jr3.0/ParentPortal/Login?orgId=504663" target="_blank">Recital Info</a>
                                 </li>
-                                <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="https://sites.google.com/kenoshadancemusicdrama.com/virtualstudio/home" target="_blank">Virtual Studio</a>
-                                </li>
+{{--                                <li class="list-group-item px-0 border-0">--}}
+{{--                                    <a class="text-decoration-none txt-blue" href="https://sites.google.com/kenoshadancemusicdrama.com/virtualstudio/home" target="_blank">Virtual Studio</a>--}}
+{{--                                </li>--}}
                             </ul>
                         </div>
 {{--                        <div class="col-sm">--}}

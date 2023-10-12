@@ -30,9 +30,9 @@ Route::get('/fall', function () {
     return view('/fall');
 });
 
-Route::get('/enroll', function () {
-    return view('/enroll');
-});
+//Route::get('/enroll', function () {
+//    return view('/enroll');
+//});
 
 Route::get('/posts', function () {
     return view('/posts');

@@ -10,7 +10,7 @@
         </li>
         <li class="nav-item text-white-50 mx-4">
             <ion-icon name="phone-portrait-outline"></ion-icon>
-            262.383.4812
+            262.384.5151
         </li>
         <li class="nav-item text-white-50 mx-4">
             <ion-icon name="mail"></ion-icon>

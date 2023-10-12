@@ -24,6 +24,6 @@
 {{--        <a class="nav-link" href="/articles">News</a>--}}
 {{--    </li>--}}
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/enroll">Enroll</a>
+        <a class="nav-link" href="https://app.jackrabbitclass.com/regv2.asp?id=504663" target="_blank">Enroll</a>
     </li>
 </ul>

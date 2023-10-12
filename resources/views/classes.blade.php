@@ -15,26 +15,37 @@
             <div class="d-flex justify-content-center">
                 <ul class="nav pt-2 pb-5">
                     <li class="nav-item">
-                        <a class="nav-link mx-1 rounded shadow text-dark underline-teal" href="#class-1-2">Ages 1-2</a>
+                        <a class="nav-link m-1 rounded shadow text-dark underline-teal" href="#class-1-2">Ages 1-2</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mx-1 rounded shadow text-dark underline-orange" href="#class-3-4">Ages 3-4</a>
+                        <a class="nav-link m-1 rounded shadow text-dark underline-orange" href="#class-3-4">Ages 3-4</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mx-1 rounded shadow text-dark underline-pink" href="#class-5-6">Ages 5-6</a>
+                        <a class="nav-link m-1 rounded shadow text-dark underline-pink" href="#class-5-6">Ages 5-6</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mx-1 rounded shadow text-dark underline-green" href="#class-7-up">Ages 7 & Up</a>
+                        <a class="nav-link m-1 rounded shadow text-dark underline-green" href="#class-7-up">Ages 7 & Up</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mx-1 rounded shadow text-dark underline-teal" href="#class-teens">Teens</a>
+                        <a class="nav-link m-1 rounded shadow text-dark underline-teal" href="#class-teens">Teens</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link m-1 rounded shadow text-dark underline-orange" href="#class-performing-groups">Community Performing Groups</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link m-1 rounded shadow text-dark underline-pink" href="#class-specialty">Specialty</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link m-1 rounded shadow text-dark underline-green" href="#class-camps">Camps</a>
                     </li>
                 </ul>
             </div>
 
             <div id="class-1-2" class="text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for Ages 1 to 2</p>
-                <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank"><button class="btn btn-kapa-teal shadow">DOWNLOAD SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-teal shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-teal-outline shadow mx-2">GET STARTED</button></a>
                 <div class="row">
                     <div class="col-sm my-1"></div>
                     <div class="col-sm my-1">
@@ -49,7 +60,8 @@
 
             <div id="class-3-4" class="pt-5 text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for Ages 3 to 4</p>
-                <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank"><button class="btn btn-kapa-orange shadow">DOWNLOAD SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-orange shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-orange-outline shadow mx-2">GET STARTED</button></a>
                 <div class="row">
                     <div class="col-sm my-1">
                         <p class="fw-bold text-uppercase mb-0">Tippy Toes</p>
@@ -74,7 +86,8 @@
 
             <div id="class-5-6" class="pt-5 text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for Ages 5 to 6</p>
-                <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank"><button class="btn btn-kapa-pink shadow">DOWNLOAD SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-pink shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-pink-outline shadow mx-2">GET STARTED</button></a>
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
                     <div class="col-sm my-1">
                         <p class="fw-bold text-uppercase mb-0">Kinder Ballet/Jazz</p>
@@ -117,7 +130,8 @@
 
             <div id="class-7-up" class="pt-5 text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Classes for Ages 7+</p>
-                <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank"><button class="btn btn-kapa-green shadow">DOWNLOAD SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-green shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-green-outline shadow mx-2">GET STARTED</button></a>
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
                     <div class="col-sm my-1">
                         <p class="fw-bold text-uppercase mb-0">Ballet</p>
@@ -178,7 +192,8 @@
 
             <div id="class-teens" class="pt-5 text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Teen Classes</p>
-                <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank"><button class="btn btn-kapa-teal shadow">DOWNLOAD SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-teal shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-teal-outline shadow mx-2">GET STARTED</button></a>
                 <div class="row">
                     <div class="col-sm my-1">
                         <p class="fw-bold text-uppercase mb-0">Teen Ballet</p>
@@ -201,7 +216,55 @@
                 </div>
             </div>
 
+            <div id="class-performing-groups" class="pt-5 text-center">
+                <p class="lead mb-0" style="font-size: 2em;">Community Performing Groups</p>
+                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-orange shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-orange-outline shadow mx-2">GET STARTED</button></a>
+                <p class="mb-0 mt-2">
+                    Our Community Performance Groups are designed for the dancer that LOVES to be onstage! Members of our performing groups grow in confidence and competence through weekly rehearsals and community performances. They perfect skills, become more flexible, improve their technique and grow as an artist each week — all under the mentorship of positive role models. Performing group members have a high success rate with auditions for high school dance teams, theaters productions and pageants, as well as choice college programs and scholarships. Our performing groups dance for a variety of audiences. Some examples include charitable events, nursing homes, expos, Great America Dance Fest, sporting events and more!
+                </p>
+            </div>
 
+            <div id="class-specialty" class="pt-5 text-center">
+                <p class="lead mb-0" style="font-size: 2em;">Specialty Classes</p>
+                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-pink shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-pink-outline shadow mx-2">GET STARTED</button></a>
+                <div class="row">
+                    <div class="col-sm my-1">
+                        <p class="fw-bold text-uppercase mb-0">Rhythm Works</p>
+                        <p class="mb-0">
+                            Rhythm Works Integrative Dance is a ground-breaking rhythm & dance program designed for those with learning differences and special needs. It combines rhythm & dance with evidence-based principles from occupational therapy, physical therapy, ABA therapy and speech therapy.
+                        </p>
+                    </div>
+                    <div class="col-sm my-1">
+                        <p class="fw-bold text-uppercase mb-0">Inclusive Ballet</p>
+                        <p class="mb-0">
+                            Inclusive Ballet is a class for adult students with learning differences to experience ballet in an open and safe learning environment. Students explore the fundamentals of ballet movement through physical skills and self-expression. Dancers in this class celebrate individuality, diversity and personal achievement.
+                        </p>
+                    </div>
+                    <div class="col-sm my-1">
+                        <p class="fw-bold text-uppercase mb-0">PBT</p>
+                        <p class="mb-0">
+                            Progressing Ballet Technique (PBT) is an innovative body-conditioning and strengthening program that has been designed to enhance students' technique by focussing on training the muscle memory required in each exercise in all forms of dance.
+                        </p>
+                    </div>
+                    <div class="col-sm my-1">
+                        <p class="fw-bold text-uppercase mb-0">Prepointe</p>
+                        <p class="mb-0">
+                            Prepointe gives dancers the extra help they need to get strong enough for pointe work. It includes exercises to work on the flexibility of the feet and ankles, strength of the foot muscles, turnout and core control.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="class-camps" class="pt-5 text-center">
+                <p class="lead mb-0" style="font-size: 2em;">Camps</p>
+                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-green shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-green-outline shadow mx-2">GET STARTED</button></a>
+                <p class="mb-0 mt-2">
+                    KAPA’s Mini-Mesters and Pop-Up Camps are an excellent way to introduce your loved one to the world of dance and to our studio. These low-commitment classes offer a chance for individuals to explore and enjoy dance, fostering a sense of fun, friendship, and the joy of movement. It's a great approach to dip one's toes into the world of dance before making a commitment, helping people discover their passion for dancing in a relaxed and enjoyable atmosphere.
+                </p>
+            </div>
 
         </div>
     </div>
