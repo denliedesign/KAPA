@@ -126,6 +126,22 @@ Route::get('/dance-in-lake-county-il', function () {
     return view('/dance-in-lake-county-il');
 });
 
+Route::get('/kenosha-dance', function () {
+    return view('/kenosha-dance');
+});
+Route::get('/racine-dance', function () {
+    return view('/racine-dance');
+});
+Route::get('/zion-dance', function () {
+    return view('/zion-dance');
+});
+Route::get('/lake-county-dance', function () {
+    return view('/lake-county-dance');
+});
+Route::get('/winthrop-harbor-dance', function () {
+    return view('/winthrop-harbor-dance');
+});
+
 Route::get('/employment', function () {
     return view('/employment');
 });
