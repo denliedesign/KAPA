@@ -44,7 +44,41 @@
         gtag('config', 'G-HZ3HZD9MVB');
     </script>
 
-    <img src="https://servedby.ipromote.com/ad/?src=pixel_cid&nid=2482&cid=T7VJY1WDF8F&cat=11902" width="1" height="1" border="0" alt="" style="position: absolute; visibility: hidden;">
+    <!-- Meta Pixel Code -->
+
+    <script>
+
+        !function(f,b,e,v,n,t,s)
+
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+            n.queue=[];t=b.createElement(e);t.async=!0;
+
+            t.src=v;s=b.getElementsByTagName(e)[0];
+
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+
+            'https://connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '1839682929600703');
+
+        fbq('track', 'PageView');
+
+    </script>
+
+    <noscript><img height="1" width="1" style="display:none"
+
+                   src="https://www.facebook.com/tr?id=1839682929600703&ev=PageView&noscript=1"
+
+        /></noscript>
+
+    <!-- End Meta Pixel Code -->
+
+{{--    <img src="https://servedby.ipromote.com/ad/?src=pixel_cid&nid=2482&cid=T7VJY1WDF8F&cat=11902" width="1" height="1" border="0" alt="" style="position: absolute; visibility: hidden;">--}}
 
     @if(session()->has('message'))
         <div class="alert alert-success mb-0" role="alert">
