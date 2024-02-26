@@ -85,12 +85,12 @@
                 <div class="col-sm mt-4"></div>
                 <div class="col-sm mt-4 text-center">
                     <img src="/images/kenosha-piano-lessons.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-teal btn-family mt-2" style="width: 100%;">Piano</div></a>
+                    <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-teal btn-family mt-2" style="width: 100%;">Piano</div></a>
                     <a style="text-decoration: none;" href="/music-lessons-kenosha"><small class="text-muted">Kenosha Piano Lessons</small></a>
                 </div>
                 <div class="col-sm mt-4 text-center">
                     <img src="/images/kenosha-voice-lessons.jpg" alt="music instruments" class="img-fluid shadow rounded" style="max-height: 196.86px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-music-lessons" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Voice</div></a>
+                    <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-kapa-orange btn-family mt-2" style="width: 100%;">Voice</div></a>
                     <a style="text-decoration: none;" href="/music-lessons-kenosha"><small class="text-muted">Kenosha Voice Lessons</small></a>
                 </div>
                 <div class="col-sm mt-4"></div>
