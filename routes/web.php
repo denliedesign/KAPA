@@ -141,6 +141,12 @@ Route::get('/lake-county-dance', function () {
 Route::get('/winthrop-harbor-dance', function () {
     return view('/winthrop-harbor-dance');
 });
+Route::get('/pleasant-prairie-dance', function () {
+    return view('/pleasant-prairie-dance');
+});
+Route::get('/dance-studios-pleasant-prairie', function () {
+    return view('/dance-studios-pleasant-prairie');
+});
 
 Route::get('/employment', function () {
     return view('/employment');
