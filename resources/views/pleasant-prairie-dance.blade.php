@@ -23,8 +23,6 @@
                                 <div class="d-flex justify-content-center">
                                     <a class="text-decoration-none" href="/dance-studios-pleasant-prairie"><small class="text-muted">Dance Studios In Pleasant Prairie</small></a>
 {{--                                    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/"><small class="text-muted">Music Lessons In Pleasant Prairie</small></a>--}}
-                                    &nbsp; &middot; &nbsp;
-                                    &nbsp; &middot; &nbsp;
                                 </div>
                             </div>
                         </div>
