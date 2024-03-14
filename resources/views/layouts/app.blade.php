@@ -86,6 +86,62 @@
         </div>
     @endif
 
+<!-- Trial Modal -->
+    <div class="modal fade" id="trialModal" tabindex="-1" aria-labelledby="trialModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <iframe
+                    src="https://link.enrollio.ai/widget/form/vgkmZbCuGMDWuEC4LGQh"
+                    style="width:100%;height:100%;border:none;border-radius:13px"
+                    id="inline-vgkmZbCuGMDWuEC4LGQh"
+                    data-layout="{'id':'INLINE'}"
+                    data-trigger-type="alwaysShow"
+                    data-trigger-value=""
+                    data-activation-type="alwaysActivated"
+                    data-activation-value=""
+                    data-deactivation-type="neverDeactivate"
+                    data-deactivation-value=""
+                    data-form-name="Website Free Trial Class Form"
+                    data-height="867"
+                    data-layout-iframe-id="inline-vgkmZbCuGMDWuEC4LGQh"
+                    data-form-id="vgkmZbCuGMDWuEC4LGQh"
+                    title="Website Free Trial Class Form"
+                >
+                </iframe>
+                <script src="https://link.enrollio.ai/js/form_embed.js"></script>
+            </div>
+        </div>
+    </div>
+    <!-- End Modal -->
+
+    <!-- Lead Modal -->
+    <div class="modal fade" id="leadModal" tabindex="-1" aria-labelledby="leadModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <iframe
+                    src="https://link.enrollio.ai/widget/form/2M7ZlzcYqd0AZ5xDSmYe"
+                    style="width:100%;height:100%;border:none;border-radius:4px"
+                    id="inline-2M7ZlzcYqd0AZ5xDSmYe"
+                    data-layout="{'id':'INLINE'}"
+                    data-trigger-type="alwaysShow"
+                    data-trigger-value=""
+                    data-activation-type="alwaysActivated"
+                    data-activation-value=""
+                    data-deactivation-type="neverDeactivate"
+                    data-deactivation-value=""
+                    data-form-name="Website Lead Capture Form"
+                    data-height="638"
+                    data-layout-iframe-id="inline-2M7ZlzcYqd0AZ5xDSmYe"
+                    data-form-id="2M7ZlzcYqd0AZ5xDSmYe"
+                    title="Website Lead Capture Form"
+                >
+                </iframe>
+                <script src="https://link.enrollio.ai/js/form_embed.js"></script>
+            </div>
+        </div>
+    </div>
+    <!-- End Modal -->
+
     @include('top')
     @include('header-21')
     @yield('content')
@@ -122,20 +178,35 @@
 {{--</script>--}}
 <!-- End of Async Drift Code -->
 
-<chat-widget style="--chat-widget-primary-color: #1C8F91; --chat-widget-active-color:#1C8F91
-;--chat-widget-bubble-color: #1C8F91" location-id="SFUCfS0n61zJppMfKcwS" heading="Have
-a question about our studio?" sub-heading="Enter your question below and we'll get back to you
+{{--<chat-widget style="--chat-widget-primary-color: #1C8F91; --chat-widget-active-color:#1C8F91--}}
+{{--;--chat-widget-bubble-color: #1C8F91" location-id="SFUCfS0n61zJppMfKcwS" heading="Have--}}
+{{--a question about our studio?" sub-heading="Enter your question below and we'll get back to you--}}
 
-shortly!" prompt-msg="Hi there, have a question about our programs? Text us here." success-
-             msg="Someone from our studio will contact you back shortly!" prompt-
-             avatar="https://firebasestorage.googleapis.com/v0/b/highlevel-
-backend.appspot.com/o/locationPhotos%2FSFUCfS0n61zJppMfKcwS%2Fchat-widget-person?
+{{--shortly!" prompt-msg="Hi there, have a question about our programs? Text us here." success---}}
+{{--             msg="Someone from our studio will contact you back shortly!" prompt---}}
+{{--             avatar="https://firebasestorage.googleapis.com/v0/b/highlevel---}}
+{{--backend.appspot.com/o/locationPhotos%2FSFUCfS0n61zJppMfKcwS%2Fchat-widget-person?--}}
 
-alt=media&token=18963adc-078f-4c28-9a1f-c61bd2a25d01" agency-name="StudioHub"
-             agency-website="getmorestudents.net" ></chat-widget> <script
+{{--alt=media&token=18963adc-078f-4c28-9a1f-c61bd2a25d01" agency-name="StudioHub"--}}
+{{--             agency-website="getmorestudents.net" ></chat-widget> <script--}}
 
-    src="https://widgets.leadconnectorhq.com/loader.js" data-resources-
-    url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" > </script>
+{{--    src="https://widgets.leadconnectorhq.com/loader.js" data-resources---}}
+{{--    url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" > </script>--}}
+
+<chat-widget
+    location-id="mfLlyQjdNK8QrDXLAQCG"
+    style="--chat-widget-primary-color: #1D8D8F; --chat-widget-active-color:#1D8D8F ;--chat-widget-bubble-color: #1D8D8F ;"
+    sub-heading="Enter your question below and a team member will get right back to you!"
+    prompt-msg="Hi! It's Miss Ann with Kenosha Academy of Performing Arts. How can I help?"
+    success-msg="One of our team members will contact you shortly!"
+    prompt-avatar="https://firebasestorage.googleapis.com/v0/b/highlevel-backend.appspot.com/o/locationPhotos%2FmfLlyQjdNK8QrDXLAQCG%2Fchat-widget-person?alt=media&token=980a7be5-3e86-4111-ab72-bd1c4cdf289f"
+    locale="en-us"
+    primary-color="#1D8D8F">
+</chat-widget>
+<script
+    src="https://widgets.leadconnectorhq.com/loader.js"
+    data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" >
+</script>
 
 <body>
 

@@ -30,6 +30,10 @@ Route::get('/fall', function () {
     return view('/fall');
 });
 
+Route::get('/contact-us', function () {
+    return view('/contact-us');
+});
+
 //Route::get('/enroll', function () {
 //    return view('/enroll');
 //});
