@@ -10,7 +10,7 @@
         </li>
         <li class="nav-item text-white-50 mx-4">
             <ion-icon name="phone-portrait-outline"></ion-icon>
-            262.384.5151
+            262-600-3110
         </li>
         <li class="nav-item text-white-50 mx-4">
             <ion-icon name="mail"></ion-icon>

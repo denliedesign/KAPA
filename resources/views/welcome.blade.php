@@ -185,7 +185,7 @@
                             <br>• To increase exposure to and appreciation for classical performance arts in the community
                             <br>• To provide opportunities for area youth to gain training that mirrors that of the professional world.
                             <br><br>
-                            Each December, we stage a production of The Nutcracker. In Spring 2022, we will produce a production of Alice in Wonderland. Both productions will fulfill our mission to share beautiful classical performances with an eager audience. Students 5 years old and up may audition for Ballet Kenosha.
+                            Each December, we stage a production of The Nutcracker. In Spring 2024, we will produce a production of <em>The Little Mermaid</em>. Both productions will fulfill our mission to share beautiful classical performances with an eager audience. Students 5 years old and up may audition for Ballet Kenosha.
                         </p>
                     </div>
                 </div>

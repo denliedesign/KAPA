@@ -33,7 +33,7 @@
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="phone-portrait-outline"></ion-icon>
-                            262.384.5151
+                            262-600-3110
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="mail"></ion-icon>
