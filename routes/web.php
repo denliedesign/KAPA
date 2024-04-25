@@ -129,7 +129,9 @@ Route::get('/dance-studios-in-racine', function () {
 Route::get('/dance-in-lake-county-il', function () {
     return view('/dance-in-lake-county-il');
 });
-
+Route::get('/somers-dance', function () {
+    return view('/somers-dance');
+});
 Route::get('/kenosha-dance', function () {
     return view('/kenosha-dance');
 });
@@ -150,6 +152,9 @@ Route::get('/pleasant-prairie-dance', function () {
 });
 Route::get('/dance-studios-pleasant-prairie', function () {
     return view('/dance-studios-pleasant-prairie');
+});
+Route::get('/dance-classes-somers', function () {
+    return view('/dance-classes-somers');
 });
 
 Route::get('/employment', function () {

@@ -66,5 +66,6 @@
                 </div>
             </div>
         </div>
+        <h5 class="p-2 rounded text-center my-2" style="background: yellow;"><em>Kenosha Academy of Performing Arts located in Kenosha, WI welcomes families from all surrounding areas.</em></h5>
     </div>
 </div>

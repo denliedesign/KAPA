@@ -139,6 +139,7 @@
     <span class="text-muted">/</span> <a class="text-decoration-none" href="/zion-dance"><small class="text-muted">Zion Dance</small></a>
     <span class="text-muted">/</span> <a class="text-decoration-none" href="/winthrop-harbor-dance"><small class="text-muted">Winthrop Harbor Dance</small></a>
     <span class="text-muted">/</span> <a class="text-decoration-none" href="/pleasant-prairie-dance"><small class="text-muted">Pleasant Prairie Dance</small></a>
+    <span class="text-muted">/</span> <a class="text-decoration-none" href="/somers-dance"><small class="text-muted">Somers Dance</small></a>
 </p>
 <p id="credit" class="bg-dark text-center pb-3 m-0">
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
