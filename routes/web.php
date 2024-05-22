@@ -156,6 +156,9 @@ Route::get('/dance-studios-pleasant-prairie', function () {
 Route::get('/dance-classes-somers', function () {
     return view('/dance-classes-somers');
 });
+Route::get('/tumbling-classes-racine', function () {
+    return view('/tumbling-classes-racine');
+});
 
 Route::get('/employment', function () {
     return view('/employment');

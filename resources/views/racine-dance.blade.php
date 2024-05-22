@@ -26,6 +26,7 @@
                                     &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/racine-dance-classes"><small class="text-muted">Racine Dance Classes</small></a>
                                     &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/racine-dance-studios"><small class="text-muted">Racine Dance Studios</small></a>
                                     &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-studios-in-racine"><small class="text-muted">Dance Studios in Racine</small></a>
+                                    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/tumbling-classes-racine"><small class="text-muted">Tumbling Classes Racine</small></a>
                                 </div>
                             </div>
                         </div>
