@@ -44,7 +44,7 @@
 
             <div id="class-1-2" class="text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for Ages 1 to 2</p>
-                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-teal shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAGDVyO5VG4/TuVJNw8-9jZXk_oLEU1AcA/view?utm_content=DAGDVyO5VG4&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><button class="btn btn-kapa-teal shadow mx-2">VIEW SCHEDULE</button></a>
                 <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-teal-outline shadow mx-2">GET STARTED</button></a>
                 <div class="row">
                     <div class="col-sm my-1"></div>
@@ -60,7 +60,7 @@
 
             <div id="class-3-4" class="pt-5 text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for Ages 3 to 4</p>
-                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-orange shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAGDVyO5VG4/TuVJNw8-9jZXk_oLEU1AcA/view?utm_content=DAGDVyO5VG4&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><button class="btn btn-kapa-orange shadow mx-2">VIEW SCHEDULE</button></a>
                 <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-orange-outline shadow mx-2">GET STARTED</button></a>
                 <div class="row">
                     <div class="col-sm my-1">
@@ -86,7 +86,7 @@
 
             <div id="class-5-6" class="pt-5 text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Programs for Ages 5 to 6</p>
-                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-pink shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAGDVyO5VG4/TuVJNw8-9jZXk_oLEU1AcA/view?utm_content=DAGDVyO5VG4&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><button class="btn btn-kapa-pink shadow mx-2">VIEW SCHEDULE</button></a>
                 <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-pink-outline shadow mx-2">GET STARTED</button></a>
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
                     <div class="col-sm my-1">
@@ -130,7 +130,7 @@
 
             <div id="class-7-up" class="pt-5 text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Classes for Ages 7+</p>
-                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-green shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAGDVyO5VG4/TuVJNw8-9jZXk_oLEU1AcA/view?utm_content=DAGDVyO5VG4&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><button class="btn btn-kapa-green shadow mx-2">VIEW SCHEDULE</button></a>
                 <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-green-outline shadow mx-2">GET STARTED</button></a>
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
                     <div class="col-sm my-1">
@@ -192,7 +192,7 @@
 
             <div id="class-teens" class="pt-5 text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Teen Classes</p>
-                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-teal shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAGDVyO5VG4/TuVJNw8-9jZXk_oLEU1AcA/view?utm_content=DAGDVyO5VG4&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><button class="btn btn-kapa-teal shadow mx-2">VIEW SCHEDULE</button></a>
                 <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-teal-outline shadow mx-2">GET STARTED</button></a>
                 <div class="row">
                     <div class="col-sm my-1">
@@ -218,7 +218,7 @@
 
             <div id="class-performing-groups" class="pt-5 text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Community Performing Groups</p>
-                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-orange shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAGDVyO5VG4/TuVJNw8-9jZXk_oLEU1AcA/view?utm_content=DAGDVyO5VG4&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><button class="btn btn-kapa-orange shadow mx-2">VIEW SCHEDULE</button></a>
                 <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-orange-outline shadow mx-2">GET STARTED</button></a>
                 <p class="mb-0 mt-2">
                     Our Community Performance Groups are designed for the dancer that LOVES to be onstage! Members of our performing groups grow in confidence and competence through weekly rehearsals and community performances. They perfect skills, become more flexible, improve their technique and grow as an artist each week — all under the mentorship of positive role models. Performing group members have a high success rate with auditions for high school dance teams, theaters productions and pageants, as well as choice college programs and scholarships. Our performing groups dance for a variety of audiences. Some examples include charitable events, nursing homes, expos, Great America Dance Fest, sporting events and more!
@@ -227,7 +227,7 @@
 
             <div id="class-specialty" class="pt-5 text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Specialty Classes</p>
-                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-pink shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAGDVyO5VG4/TuVJNw8-9jZXk_oLEU1AcA/view?utm_content=DAGDVyO5VG4&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><button class="btn btn-kapa-pink shadow mx-2">VIEW SCHEDULE</button></a>
                 <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-pink-outline shadow mx-2">GET STARTED</button></a>
                 <div class="row">
                     <div class="col-sm my-1">
@@ -259,7 +259,7 @@
 
             <div id="class-camps" class="pt-5 text-center">
                 <p class="lead mb-0" style="font-size: 2em;">Camps</p>
-                <a href="https://www.canva.com/design/DAFh-J_l2oc/H55t-9hsmOVlIqMr82UqEA/view?utm_content=DAFh-J_l2oc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><button class="btn btn-kapa-green shadow mx-2">VIEW SCHEDULE</button></a>
+                <a href="https://www.canva.com/design/DAGDVyO5VG4/TuVJNw8-9jZXk_oLEU1AcA/view?utm_content=DAGDVyO5VG4&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><button class="btn btn-kapa-green shadow mx-2">VIEW SCHEDULE</button></a>
                 <a href="https://kenoshaacademyofperformingarts1.dncestudios.com/get-started-new" target="_blank"><button class="btn btn-kapa-green-outline shadow mx-2">GET STARTED</button></a>
                 <p class="mb-0 mt-2">
                     KAPA’s Mini-Mesters and Pop-Up Camps are an excellent way to introduce your loved one to the world of dance and to our studio. These low-commitment classes offer a chance for individuals to explore and enjoy dance, fostering a sense of fun, friendship, and the joy of movement. It's a great approach to dip one's toes into the world of dance before making a commitment, helping people discover their passion for dancing in a relaxed and enjoyable atmosphere.
